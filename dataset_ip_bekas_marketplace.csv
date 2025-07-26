@@ -1,0 +1,1001 @@
+ID,Model,Kapasitas_GB,Warna,Tahun_Pencatatan,Harga_IDR,Status,Kondisi,Kategori_Pasar,Sumber,Lokasi
+1,iPhone 11,64,Black,2022,6700000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+2,iPhone 11,64,White,2022,6500000,Bekas,Mulus,Resmi,OLX,Jakarta
+3,iPhone 11,64,Green,2022,6100000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Bandung
+4,iPhone 11,64,Red,2022,6000000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Bandung
+5,iPhone 11,64,Purple,2022,5800000,Bekas,Batangan,Ex-Inter,Forum Jual Beli,Surabaya
+6,iPhone 11,128,Black,2022,7000000,Bekas,Like New,Resmi,Carousell,Jakarta
+7,iPhone 11,128,White,2022,6800000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+8,iPhone 11,128,Green,2023,6500000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+9,iPhone 11,128,Red,2023,6300000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+10,iPhone 11,128,Purple,2023,6100000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Yogyakarta
+11,iPhone 11,256,Black,2023,7200000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+12,iPhone 11,256,White,2023,7000000,Bekas,Like New,Ex-Inter,Carousell,Bandung
+13,iPhone 11 Pro,64,Space Gray,2022,7500000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Jakarta
+14,iPhone 11 Pro,64,Silver,2022,7300000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+15,iPhone 11 Pro,64,Gold,2022,7200000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+16,iPhone 11 Pro,64,Midnight Green,2023,7000000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+17,iPhone 11 Pro,256,Space Gray,2023,8500000,Bekas,Like New,Bea Cukai,OLX,Batam
+18,iPhone 11 Pro,256,Silver,2023,8300000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+19,iPhone 11 Pro,256,Gold,2023,8200000,Bekas,Mulus,Ex-Inter,Carousell,Bandung
+20,iPhone 11 Pro,256,Midnight Green,2024,7800000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+21,iPhone 11 Pro,512,Space Gray,2024,8800000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+22,iPhone 11 Pro,512,Silver,2024,8600000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+23,iPhone 11 Pro Max,64,Space Gray,2023,8200000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+24,iPhone 11 Pro Max,64,Silver,2023,8000000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+25,iPhone 11 Pro Max,64,Gold,2023,7800000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+26,iPhone 11 Pro Max,64,Midnight Green,2024,7500000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+27,iPhone 11 Pro Max,256,Space Gray,2024,9500000,Bekas,Like New,Bea Cukai,OLX,Batam
+28,iPhone 11 Pro Max,256,Silver,2024,9300000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+29,iPhone 11 Pro Max,256,Gold,2024,9200000,Bekas,Mulus,Resmi,Carousell,Bandung
+30,iPhone 11 Pro Max,256,Midnight Green,2024,9000000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+31,iPhone 11 Pro Max,512,Space Gray,2024,10000000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+32,iPhone 11 Pro Max,512,Silver,2025,9800000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+33,iPhone 11 Pro Max,512,Gold,2025,9500000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+34,iPhone 11 Pro Max,512,Midnight Green,2025,9200000,Bekas,Lecet Halus,Ex-Inter,Forum Jual Beli,Surabaya
+35,iPhone 12,64,Black,2023,7500000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+36,iPhone 12,64,White,2023,7300000,Bekas,Mulus,Resmi,OLX,Bandung
+37,iPhone 12,64,Blue,2023,7200000,Bekas,Like New,Resmi,Kaskus,Jakarta
+38,iPhone 12,64,Green,2024,6800000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Surabaya
+39,iPhone 12,64,Red,2024,6600000,Bekas,Lecet Halus,Ex-Inter,Carousell,Yogyakarta
+40,iPhone 12,128,Black,2024,8000000,Bekas,Mulus,Resmi,OLX,Jakarta
+41,iPhone 12,128,White,2024,7800000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+42,iPhone 12,128,Blue,2024,7600000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+43,iPhone 12,128,Green,2024,7400000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+44,iPhone 12,128,Red,2025,7000000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+45,iPhone 12,256,Black,2024,8500000,Bekas,Like New,Resmi,Carousell,Jakarta
+46,iPhone 12,256,White,2025,8200000,Bekas,Mulus,Resmi,OLX,Bandung
+47,iPhone 12 Pro,128,Graphite,2023,10000000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+48,iPhone 12 Pro,128,Silver,2023,9800000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+49,iPhone 12 Pro,128,Gold,2024,9500000,Bekas,Like New,Resmi,Kaskus,Jakarta
+50,iPhone 12 Pro,128,Pacific Blue,2024,9300000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+51,iPhone 12 Pro,256,Graphite,2024,11000000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+52,iPhone 12 Pro,256,Silver,2024,10800000,Bekas,Like New,Bea Cukai,Carousell,Batam
+53,iPhone 12 Pro,256,Gold,2024,10500000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+54,iPhone 12 Pro,256,Pacific Blue,2025,10200000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+55,iPhone 12 Pro,512,Graphite,2024,12000000,Bekas,Like New,Resmi,Kaskus,Jakarta
+56,iPhone 12 Pro,512,Silver,2025,11500000,Bekas,Mulus,Bea Cukai,OLX,Batam
+57,iPhone 12 Pro Max,128,Graphite,2024,11500000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+58,iPhone 12 Pro Max,128,Silver,2024,11300000,Bekas,Mulus,Resmi,OLX,Bandung
+59,iPhone 12 Pro Max,128,Gold,2024,11000000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+60,iPhone 12 Pro Max,128,Pacific Blue,2025,10800000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+61,iPhone 12 Pro Max,256,Graphite,2024,12500000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+62,iPhone 12 Pro Max,256,Silver,2024,12300000,Bekas,Like New,Resmi,Carousell,Bandung
+63,iPhone 12 Pro Max,256,Gold,2025,12000000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+64,iPhone 12 Pro Max,256,Pacific Blue,2025,11800000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+65,iPhone 12 Pro Max,512,Graphite,2024,13500000,Bekas,Like New,Resmi,Kaskus,Jakarta
+66,iPhone 12 Pro Max,512,Silver,2025,13000000,Bekas,Mulus,Bea Cukai,OLX,Batam
+67,iPhone 13,128,Midnight,2024,9000000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+68,iPhone 13,128,Starlight,2024,8800000,Bekas,Mulus,Resmi,OLX,Bandung
+69,iPhone 13,128,Blue,2024,8600000,Bekas,Like New,Resmi,Kaskus,Jakarta
+70,iPhone 13,128,Pink,2024,8400000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+71,iPhone 13,128,Red,2025,8000000,Bekas,Mulus,Ex-Inter,Carousell,Yogyakarta
+72,iPhone 13,256,Midnight,2024,10000000,Bekas,Mulus,Resmi,OLX,Jakarta
+73,iPhone 13,256,Starlight,2024,9800000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+74,iPhone 13,256,Blue,2025,9500000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Surabaya
+75,iPhone 13,256,Pink,2025,9300000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+76,iPhone 13,512,Midnight,2025,11000000,Bekas,Mulus,Resmi,Carousell,Jakarta
+77,iPhone 13 Pro,128,Graphite,2024,14000000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+78,iPhone 13 Pro,128,Silver,2024,13800000,Bekas,Mulus,Resmi,OLX,Bandung
+79,iPhone 13 Pro,128,Gold,2024,13500000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+80,iPhone 13 Pro,128,Sierra Blue,2024,13300000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+81,iPhone 13 Pro,256,Graphite,2024,15000000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+82,iPhone 13 Pro,256,Silver,2024,14800000,Bekas,Like New,Bea Cukai,Carousell,Batam
+83,iPhone 13 Pro,256,Gold,2025,14500000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+84,iPhone 13 Pro,256,Sierra Blue,2025,14200000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+85,iPhone 13 Pro,512,Graphite,2025,16000000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+86,iPhone 13 Pro,1TB,Silver,2025,17500000,Bekas,Mulus,Bea Cukai,OLX,Batam
+87,iPhone 13 Pro Max,128,Graphite,2024,15000000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+88,iPhone 13 Pro Max,128,Silver,2024,14800000,Bekas,Mulus,Resmi,OLX,Bandung
+89,iPhone 13 Pro Max,128,Gold,2025,14500000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+90,iPhone 13 Pro Max,128,Sierra Blue,2025,14300000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+91,iPhone 13 Pro Max,256,Graphite,2024,16000000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+92,iPhone 13 Pro Max,256,Silver,2024,15800000,Bekas,Like New,Resmi,Carousell,Bandung
+93,iPhone 13 Pro Max,256,Gold,2025,15500000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+94,iPhone 13 Pro Max,256,Sierra Blue,2025,15200000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+95,iPhone 13 Pro Max,512,Graphite,2025,17000000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+96,iPhone 13 Pro Max,1TB,Silver,2025,18500000,Bekas,Mulus,Bea Cukai,OLX,Batam
+97,iPhone 14,128,Midnight,2024,10500000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+98,iPhone 14,128,Starlight,2024,10300000,Bekas,Mulus,Resmi,OLX,Bandung
+99,iPhone 14,128,Blue,2025,10000000,Bekas,Like New,Resmi,Kaskus,Jakarta
+100,iPhone 14,128,Purple,2025,9800000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+101,iPhone 14,256,Midnight,2024,12000000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+102,iPhone 14,256,Starlight,2025,11500000,Bekas,Like New,Resmi,Carousell,Bandung
+103,iPhone 14,512,Blue,2025,13000000,Bekas,Mulus,Resmi,OLX,Jakarta
+104,iPhone 14 Plus,128,Midnight,2024,11500000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+105,iPhone 14 Plus,256,Starlight,2025,13000000,Bekas,Mulus,Resmi,OLX,Bandung
+106,iPhone 14 Plus,512,Blue,2025,14500000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+107,iPhone 14 Pro,128,Space Black,2024,16500000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+108,iPhone 14 Pro,128,Silver,2024,16300000,Bekas,Mulus,Resmi,OLX,Bandung
+109,iPhone 14 Pro,128,Gold,2025,16000000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+110,iPhone 14 Pro,128,Deep Purple,2025,15800000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+111,iPhone 14 Pro,256,Space Black,2024,17500000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+112,iPhone 14 Pro,256,Silver,2025,17200000,Bekas,Like New,Bea Cukai,Carousell,Batam
+113,iPhone 14 Pro,512,Gold,2025,19000000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+114,iPhone 14 Pro,1TB,Deep Purple,2025,20000000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+115,iPhone 14 Pro Max,128,Space Black,2024,18500000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+116,iPhone 14 Pro Max,128,Silver,2025,18200000,Bekas,Mulus,Resmi,OLX,Bandung
+117,iPhone 14 Pro Max,256,Gold,2024,19500000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+118,iPhone 14 Pro Max,256,Deep Purple,2025,19200000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+119,iPhone 14 Pro Max,512,Space Black,2025,21000000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+120,iPhone 14 Pro Max,1TB,Silver,2025,22500000,Bekas,Mulus,Bea Cukai,OLX,Batam
+121,iPhone 15,128,Black,2025,12000000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+122,iPhone 15,128,Blue,2025,11800000,Bekas,Like New,Resmi,Kaskus,Jakarta
+123,iPhone 15,256,Green,2025,13500000,Bekas,Mulus,Resmi,OLX,Bandung
+124,iPhone 15,512,Yellow,2025,15000000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+125,iPhone 15 Plus,128,Pink,2025,13500000,Bekas,Mulus,Resmi,Carousell,Jakarta
+126,iPhone 15 Plus,256,Black,2025,15000000,Bekas,Mulus,Resmi,OLX,Jakarta
+127,iPhone 15 Plus,512,Blue,2025,16500000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+128,iPhone 15 Pro,128,Natural Titanium,2025,18500000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+129,iPhone 15 Pro,128,Blue Titanium,2025,18300000,Bekas,Mulus,Resmi,OLX,Bandung
+130,iPhone 15 Pro,256,White Titanium,2025,20000000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+131,iPhone 15 Pro,256,Black Titanium,2025,19800000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+132,iPhone 15 Pro,512,Natural Titanium,2025,23000000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+133,iPhone 15 Pro,1TB,Blue Titanium,2025,25000000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+134,iPhone 15 Pro Max,256,White Titanium,2025,22000000,Bekas,Mulus,Resmi,OLX,Jakarta
+135,iPhone 15 Pro Max,256,Black Titanium,2025,21800000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+136,iPhone 15 Pro Max,512,Natural Titanium,2025,26000000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+137,iPhone 15 Pro Max,1TB,Blue Titanium,2025,30000000,Bekas,Mulus,Bea Cukai,OLX,Batam
+138,iPhone 16,128,Space Black,2025,14500000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+139,iPhone 16,256,White,2025,16500000,Bekas,Like New,Resmi,OLX,Jakarta
+140,iPhone 16 Plus,128,Rose Gold,2025,16000000,Bekas,Like New,Resmi,Kaskus,Jakarta
+141,iPhone 16 Plus,256,Green,2025,18000000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+142,iPhone 16 Pro,256,Gray Titanium,2025,20000000,Bekas,Like New,Resmi,OLX,Jakarta
+143,iPhone 16 Pro,512,Desert Titanium,2025,24000000,Bekas,Like New,Resmi,Carousell,Jakarta
+144,iPhone 16 Pro Max,256,Natural Titanium,2025,22000000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+145,iPhone 16 Pro Max,512,White Titanium,2025,26000000,Bekas,Like New,Resmi,OLX,Jakarta
+146,iPhone 16 Pro Max,1TB,Space Black,2025,30000000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+147,iPhone 11,64,Green,2023,6250000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Medan
+148,iPhone 11 Pro,256,Gold,2023,8350000,Bekas,Mulus,Ex-Inter,OLX,Medan
+149,iPhone 12,128,White,2024,7750000,Bekas,Like New,Resmi,Kaskus,Medan
+150,iPhone 12 Pro Max,256,Gold,2024,11950000,Bekas,Mulus,Resmi,Facebook Marketplace,Medan
+151,iPhone 13,256,Pink,2024,9450000,Bekas,Mulus,Resmi,OLX,Medan
+152,iPhone 13 Pro,128,Graphite,2024,13450000,Bekas,Mulus,Resmi,Forum Jual Beli,Medan
+153,iPhone 14,128,Blue,2024,10150000,Bekas,Mulus,Resmi,Carousell,Medan
+154,iPhone 14 Pro Max,256,Deep Purple,2025,19050000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Medan
+155,iPhone 15 Pro,256,Natural Titanium,2025,19950000,Bekas,Like New,Ex-Inter,OLX,Medan
+156,iPhone 11,64,Red,2022,5900000,Bekas,Minus BH 80%,Ex-Inter,Facebook Marketplace,Semarang
+157,iPhone 11 Pro,64,Space Gray,2022,7100000,Bekas,Lecet Ringan,Ex-Inter,Kaskus,Semarang
+158,iPhone 12,64,Blue,2023,7100000,Bekas,Mulus,Resmi,OLX,Semarang
+159,iPhone 12 Pro Max,128,Silver,2023,11400000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+160,iPhone 13,128,Starlight,2024,8700000,Bekas,Like New,Resmi,Forum Jual Beli,Semarang
+161,iPhone 13 Pro,256,Gold,2024,15400000,Bekas,Mulus,Resmi,Carousell,Semarang
+162,iPhone 14,128,Purple,2024,10400000,Bekas,Mulus,Resmi,OLX,Semarang
+163,iPhone 14 Pro Max,256,Silver,2025,19100000,Bekas,Like New,Bea Cukai,Kaskus,Semarang
+164,iPhone 15,256,Black,2025,13300000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+165,iPhone 15 Pro Max,512,Blue Titanium,2025,27000000,Bekas,Like New,Resmi,OLX,Semarang
+166,iPhone 11,64,Yellow,2022,5700000,Bekas,Batangan,Ex-Inter,Facebook Marketplace,Makassar
+167,iPhone 11 Pro,256,Midnight Green,2023,8000000,Bekas,Mulus,Ex-Inter,OLX,Makassar
+168,iPhone 12,128,Green,2023,7900000,Bekas,Mulus,Resmi,Kaskus,Makassar
+169,iPhone 12 Pro Max,256,Pacific Blue,2024,11600000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Makassar
+170,iPhone 13,128,Red,2024,8900000,Bekas,Mulus,Resmi,Forum Jual Beli,Makassar
+171,iPhone 13 Pro,256,Alpine Green,2024,15900000,Bekas,Like New,Resmi,Carousell,Makassar
+172,iPhone 14 Pro,128,Gold,2024,16600000,Bekas,Mulus,Resmi,OLX,Makassar
+173,iPhone 14 Pro Max,512,Deep Purple,2025,21200000,Bekas,Like New,Bea Cukai,Kaskus,Makassar
+174,iPhone 15,256,Yellow,2025,13600000,Bekas,Mulus,Resmi,Facebook Marketplace,Makassar
+175,iPhone 15 Pro Max,512,Black Titanium,2025,28200000,Bekas,Like New,Resmi,OLX,Makassar
+176,iPhone 11,64,White,2021,7200000,Bekas,Mulus,Resmi,OLX,Bandung
+177,iPhone 11,128,Purple,2021,7900000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+178,iPhone 11 Pro,64,Space Gray,2021,9000000,Bekas,Mulus,Ex-Inter,Kaskus,Bandung
+179,iPhone 11 Pro Max,256,Silver,2022,10000000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+180,iPhone 12,64,Red,2022,7800000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+181,iPhone 12 Pro,128,Gold,2022,10500000,Bekas,Mulus,Resmi,Kaskus,Bandung
+182,iPhone 12 Pro Max,128,Pacific Blue,2023,11800000,Bekas,Mulus,Resmi,OLX,Bandung
+183,iPhone 13,128,Blue,2023,9200000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+184,iPhone 13 Pro,256,Sierra Blue,2023,15000000,Bekas,Mulus,Resmi,Kaskus,Bandung
+185,iPhone 14,128,Starlight,2024,10200000,Bekas,Mulus,Resmi,OLX,Bandung
+186,iPhone 14 Pro Max,256,Gold,2024,19300000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+187,iPhone 15,128,Green,2025,11600000,Bekas,Mulus,Resmi,Kaskus,Bandung
+188,iPhone 15 Pro,256,White Titanium,2025,20200000,Bekas,Like New,Bea Cukai,OLX,Bandung
+189,iPhone 11,64,Black,2022,6400000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+190,iPhone 11 Pro,64,Silver,2022,7000000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+191,iPhone 11 Pro Max,64,Gold,2023,7300000,Bekas,Lecet,Ex-Inter,Kaskus,Jakarta
+192,iPhone 12,64,Blue,2023,7000000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+193,iPhone 12 Pro,128,Graphite,2023,9500000,Bekas,Lecet,Resmi,OLX,Jakarta
+194,iPhone 12 Pro Max,128,Silver,2024,10000000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+195,iPhone 13,128,Pink,2024,8100000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+196,iPhone 13 Pro,256,Gold,2024,14500000,Bekas,Lecet,Resmi,OLX,Jakarta
+197,iPhone 13 Pro Max,256,Sierra Blue,2025,15000000,Bekas,Lecet,Bea Cukai,Kaskus,Jakarta
+198,iPhone 14,128,Purple,2025,9500000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+199,iPhone 14 Pro,256,Deep Purple,2025,16500000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+200,iPhone 14 Pro Max,256,Space Black,2025,18800000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+201,iPhone 11,64,Black,2022,6650000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+202,iPhone 11,64,White,2022,6450000,Bekas,Mulus,Resmi,OLX,Jakarta
+203,iPhone 11,64,Green,2022,6050000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Bandung
+204,iPhone 11,64,Red,2022,5950000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Bandung
+205,iPhone 11,64,Purple,2022,5750000,Bekas,Batangan,Ex-Inter,Forum Jual Beli,Surabaya
+206,iPhone 11,128,Black,2022,6950000,Bekas,Like New,Resmi,Carousell,Jakarta
+207,iPhone 11,128,White,2022,6750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+208,iPhone 11,128,Green,2023,6450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+209,iPhone 11,128,Red,2023,6250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+210,iPhone 11,128,Purple,2023,6050000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Yogyakarta
+211,iPhone 11,256,Black,2023,7150000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+212,iPhone 11,256,White,2023,6950000,Bekas,Like New,Ex-Inter,Carousell,Bandung
+213,iPhone 11 Pro,64,Space Gray,2022,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Jakarta
+214,iPhone 11 Pro,64,Silver,2022,7250000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+215,iPhone 11 Pro,64,Gold,2022,7150000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+216,iPhone 11 Pro,64,Midnight Green,2023,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+217,iPhone 11 Pro,256,Space Gray,2023,8450000,Bekas,Like New,Bea Cukai,OLX,Batam
+218,iPhone 11 Pro,256,Silver,2023,8250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+219,iPhone 11 Pro,256,Gold,2023,8150000,Bekas,Mulus,Ex-Inter,Carousell,Bandung
+220,iPhone 11 Pro,256,Midnight Green,2024,7750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+221,iPhone 11 Pro,512,Space Gray,2024,8750000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+222,iPhone 11 Pro,512,Silver,2024,8550000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+223,iPhone 11 Pro Max,64,Space Gray,2023,8150000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+224,iPhone 11 Pro Max,64,Silver,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+225,iPhone 11 Pro Max,64,Gold,2023,7750000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+226,iPhone 11 Pro Max,64,Midnight Green,2024,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+227,iPhone 11 Pro Max,256,Space Gray,2024,9450000,Bekas,Like New,Bea Cukai,OLX,Batam
+228,iPhone 11 Pro Max,256,Silver,2024,9250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+229,iPhone 11 Pro Max,256,Gold,2024,9150000,Bekas,Mulus,Resmi,Carousell,Bandung
+230,iPhone 11 Pro Max,256,Midnight Green,2024,8950000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+231,iPhone 11 Pro Max,512,Space Gray,2024,9950000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+232,iPhone 11 Pro Max,512,Silver,2025,9750000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+233,iPhone 11 Pro Max,512,Gold,2025,9450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+234,iPhone 11 Pro Max,512,Midnight Green,2025,9150000,Bekas,Lecet Halus,Ex-Inter,Forum Jual Beli,Surabaya
+235,iPhone 12,64,Black,2023,7450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+236,iPhone 12,64,White,2023,7250000,Bekas,Mulus,Resmi,OLX,Bandung
+237,iPhone 12,64,Blue,2023,7150000,Bekas,Like New,Resmi,Kaskus,Jakarta
+238,iPhone 12,64,Green,2024,6750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Surabaya
+239,iPhone 12,64,Red,2024,6550000,Bekas,Lecet Halus,Ex-Inter,Carousell,Yogyakarta
+240,iPhone 12,128,Black,2024,7950000,Bekas,Mulus,Resmi,OLX,Jakarta
+241,iPhone 12,128,White,2024,7750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+242,iPhone 12,128,Blue,2024,7550000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+243,iPhone 12,128,Green,2024,7350000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+244,iPhone 12,128,Red,2025,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+245,iPhone 12,256,Black,2024,8450000,Bekas,Like New,Resmi,Carousell,Jakarta
+246,iPhone 12,256,White,2025,8150000,Bekas,Mulus,Resmi,OLX,Bandung
+247,iPhone 12 Pro,128,Graphite,2023,9950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+248,iPhone 12 Pro,128,Silver,2023,9750000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+249,iPhone 12 Pro,128,Gold,2024,9450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+250,iPhone 12 Pro,128,Pacific Blue,2024,9250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+251,iPhone 12 Pro,256,Graphite,2024,10950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+252,iPhone 12 Pro,256,Silver,2024,10750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+253,iPhone 12 Pro,256,Gold,2024,10450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+254,iPhone 12 Pro,256,Pacific Blue,2025,10150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+255,iPhone 12 Pro,512,Graphite,2024,11950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+256,iPhone 12 Pro,512,Silver,2025,11450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+257,iPhone 12 Pro Max,128,Graphite,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+258,iPhone 12 Pro Max,128,Silver,2024,11250000,Bekas,Mulus,Resmi,OLX,Bandung
+259,iPhone 12 Pro Max,128,Gold,2024,10950000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+260,iPhone 12 Pro Max,128,Pacific Blue,2025,10750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+261,iPhone 12 Pro Max,256,Graphite,2024,12450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+262,iPhone 12 Pro Max,256,Silver,2024,12250000,Bekas,Like New,Resmi,Carousell,Bandung
+263,iPhone 12 Pro Max,256,Gold,2025,11950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+264,iPhone 12 Pro Max,256,Pacific Blue,2025,11750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+265,iPhone 12 Pro Max,512,Graphite,2024,13450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+266,iPhone 12 Pro Max,512,Silver,2025,12950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+267,iPhone 13,128,Midnight,2024,8950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+268,iPhone 13,128,Starlight,2024,8750000,Bekas,Mulus,Resmi,OLX,Bandung
+269,iPhone 13,128,Blue,2024,8550000,Bekas,Like New,Resmi,Kaskus,Jakarta
+270,iPhone 13,128,Pink,2024,8350000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+271,iPhone 13,128,Red,2025,7950000,Bekas,Mulus,Ex-Inter,Carousell,Yogyakarta
+272,iPhone 13,256,Midnight,2024,9950000,Bekas,Mulus,Resmi,OLX,Jakarta
+273,iPhone 13,256,Starlight,2024,9750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+274,iPhone 13,256,Blue,2025,9450000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Surabaya
+275,iPhone 13,256,Pink,2025,9250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+276,iPhone 13,512,Midnight,2025,10950000,Bekas,Mulus,Resmi,Carousell,Jakarta
+277,iPhone 13 Pro,128,Graphite,2024,13950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+278,iPhone 13 Pro,128,Silver,2024,13750000,Bekas,Mulus,Resmi,OLX,Bandung
+279,iPhone 13 Pro,128,Gold,2024,13450000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+280,iPhone 13 Pro,128,Sierra Blue,2024,13250000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+281,iPhone 13 Pro,256,Graphite,2024,14950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+282,iPhone 13 Pro,256,Silver,2024,14750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+283,iPhone 13 Pro,256,Gold,2025,14450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+284,iPhone 13 Pro,256,Sierra Blue,2025,14150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+285,iPhone 13 Pro,512,Graphite,2025,15950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+286,iPhone 13 Pro,1TB,Silver,2025,17450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+287,iPhone 13 Pro Max,128,Graphite,2024,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+288,iPhone 13 Pro Max,128,Silver,2024,14750000,Bekas,Mulus,Resmi,OLX,Bandung
+289,iPhone 13 Pro Max,128,Gold,2025,14450000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+290,iPhone 13 Pro Max,128,Sierra Blue,2025,14250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+291,iPhone 13 Pro Max,256,Graphite,2024,15950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+292,iPhone 13 Pro Max,256,Silver,2024,15750000,Bekas,Like New,Resmi,Carousell,Bandung
+293,iPhone 13 Pro Max,256,Gold,2025,15450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+294,iPhone 13 Pro Max,256,Sierra Blue,2025,15150000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+295,iPhone 13 Pro Max,512,Graphite,2025,16950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+296,iPhone 13 Pro Max,1TB,Silver,2025,18450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+297,iPhone 14,128,Midnight,2024,10450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+298,iPhone 14,128,Starlight,2024,10250000,Bekas,Mulus,Resmi,OLX,Bandung
+299,iPhone 14,128,Blue,2025,9950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+300,iPhone 14,128,Purple,2025,9750000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+301,iPhone 14,256,Midnight,2024,11950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+302,iPhone 14,256,Starlight,2025,11450000,Bekas,Like New,Resmi,Carousell,Bandung
+303,iPhone 14,512,Blue,2025,12950000,Bekas,Mulus,Resmi,OLX,Jakarta
+304,iPhone 14 Plus,128,Midnight,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+305,iPhone 14 Plus,256,Starlight,2025,12950000,Bekas,Mulus,Resmi,OLX,Bandung
+306,iPhone 14 Plus,512,Blue,2025,14450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+307,iPhone 14 Pro,128,Space Black,2024,16450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+308,iPhone 14 Pro,128,Silver,2024,16250000,Bekas,Mulus,Resmi,OLX,Bandung
+309,iPhone 14 Pro,128,Gold,2025,15950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+310,iPhone 14 Pro,128,Deep Purple,2025,15750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+311,iPhone 14 Pro,256,Space Black,2024,17450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+312,iPhone 14 Pro,256,Silver,2025,17150000,Bekas,Like New,Bea Cukai,Carousell,Batam
+313,iPhone 14 Pro,512,Gold,2025,18950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+314,iPhone 14 Pro,1TB,Deep Purple,2025,19950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+315,iPhone 14 Pro Max,128,Space Black,2024,18450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+316,iPhone 14 Pro Max,128,Silver,2025,18150000,Bekas,Mulus,Resmi,OLX,Bandung
+317,iPhone 14 Pro Max,256,Gold,2024,19450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+318,iPhone 14 Pro Max,256,Deep Purple,2025,19150000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+319,iPhone 14 Pro Max,512,Space Black,2025,20950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+320,iPhone 14 Pro Max,1TB,Silver,2025,22450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+321,iPhone 15,128,Black,2025,11950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+322,iPhone 15,128,Blue,2025,11750000,Bekas,Like New,Resmi,Kaskus,Jakarta
+323,iPhone 15,256,Green,2025,13450000,Bekas,Mulus,Resmi,OLX,Bandung
+324,iPhone 15,512,Yellow,2025,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+325,iPhone 15 Plus,128,Pink,2025,13450000,Bekas,Mulus,Resmi,Carousell,Jakarta
+326,iPhone 15 Plus,256,Black,2025,14950000,Bekas,Mulus,Resmi,OLX,Jakarta
+327,iPhone 15 Plus,512,Blue,2025,16450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+328,iPhone 15 Pro,128,Natural Titanium,2025,18450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+329,iPhone 15 Pro,128,Blue Titanium,2025,18250000,Bekas,Mulus,Resmi,OLX,Bandung
+330,iPhone 15 Pro,256,White Titanium,2025,19950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+331,iPhone 15 Pro,256,Black Titanium,2025,19750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+332,iPhone 15 Pro,512,Natural Titanium,2025,22950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+333,iPhone 15 Pro,1TB,Blue Titanium,2025,24950000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+334,iPhone 15 Pro Max,256,White Titanium,2025,21950000,Bekas,Mulus,Resmi,OLX,Jakarta
+335,iPhone 15 Pro Max,256,Black Titanium,2025,21750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+336,iPhone 15 Pro Max,512,Natural Titanium,2025,25950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+337,iPhone 15 Pro Max,1TB,Blue Titanium,2025,29950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+338,iPhone 16,128,Space Black,2025,14450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+339,iPhone 16,256,White,2025,16450000,Bekas,Like New,Resmi,OLX,Jakarta
+340,iPhone 16 Plus,128,Rose Gold,2025,15950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+341,iPhone 16 Plus,256,Green,2025,17950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+342,iPhone 16 Pro,256,Gray Titanium,2025,19950000,Bekas,Like New,Resmi,OLX,Jakarta
+343,iPhone 16 Pro,512,Desert Titanium,2025,23950000,Bekas,Like New,Resmi,Carousell,Jakarta
+344,iPhone 16 Pro Max,256,Natural Titanium,2025,21950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+345,iPhone 16 Pro Max,512,White Titanium,2025,25950000,Bekas,Like New,Resmi,OLX,Jakarta
+346,iPhone 16 Pro Max,1TB,Space Black,2025,29950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+347,iPhone 11,64,Green,2023,6200000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Medan
+348,iPhone 11 Pro,256,Gold,2023,8300000,Bekas,Mulus,Ex-Inter,OLX,Medan
+349,iPhone 12,128,White,2024,7700000,Bekas,Like New,Resmi,Kaskus,Medan
+350,iPhone 12 Pro Max,256,Gold,2024,11900000,Bekas,Mulus,Resmi,Facebook Marketplace,Medan
+351,iPhone 13,256,Pink,2024,9400000,Bekas,Mulus,Resmi,OLX,Medan
+352,iPhone 13 Pro,128,Graphite,2024,13400000,Bekas,Mulus,Resmi,Forum Jual Beli,Medan
+353,iPhone 14,128,Blue,2024,10100000,Bekas,Mulus,Resmi,Carousell,Medan
+354,iPhone 14 Pro Max,256,Deep Purple,2025,19000000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Medan
+355,iPhone 15 Pro,256,Natural Titanium,2025,19900000,Bekas,Like New,Ex-Inter,OLX,Medan
+356,iPhone 11,64,Red,2022,5850000,Bekas,Minus BH 80%,Ex-Inter,Facebook Marketplace,Semarang
+357,iPhone 11 Pro,64,Space Gray,2022,7050000,Bekas,Lecet Ringan,Ex-Inter,Kaskus,Semarang
+358,iPhone 12,64,Blue,2023,7050000,Bekas,Mulus,Resmi,OLX,Semarang
+359,iPhone 12 Pro Max,128,Silver,2023,11350000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+360,iPhone 13,128,Starlight,2024,8650000,Bekas,Like New,Resmi,Forum Jual Beli,Semarang
+361,iPhone 13 Pro,256,Gold,2024,15350000,Bekas,Mulus,Resmi,Carousell,Semarang
+362,iPhone 14,128,Purple,2024,10350000,Bekas,Mulus,Resmi,OLX,Semarang
+363,iPhone 14 Pro Max,256,Silver,2025,19050000,Bekas,Like New,Bea Cukai,Kaskus,Semarang
+364,iPhone 15,256,Black,2025,13250000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+365,iPhone 15 Pro Max,512,Blue Titanium,2025,26950000,Bekas,Like New,Resmi,OLX,Semarang
+366,iPhone 11,64,Yellow,2022,5650000,Bekas,Batangan,Ex-Inter,Facebook Marketplace,Makassar
+367,iPhone 11 Pro,256,Midnight Green,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Makassar
+368,iPhone 12,128,Green,2023,7850000,Bekas,Mulus,Resmi,Kaskus,Makassar
+369,iPhone 12 Pro Max,256,Pacific Blue,2024,11550000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Makassar
+370,iPhone 13,128,Red,2024,8850000,Bekas,Mulus,Resmi,Forum Jual Beli,Makassar
+371,iPhone 13 Pro,256,Alpine Green,2024,15850000,Bekas,Like New,Resmi,Carousell,Makassar
+372,iPhone 14 Pro,128,Gold,2024,16550000,Bekas,Mulus,Resmi,OLX,Makassar
+373,iPhone 14 Pro Max,512,Deep Purple,2025,21150000,Bekas,Like New,Bea Cukai,Kaskus,Makassar
+374,iPhone 15,256,Yellow,2025,13550000,Bekas,Mulus,Resmi,Facebook Marketplace,Makassar
+375,iPhone 15 Pro Max,512,Black Titanium,2025,28150000,Bekas,Like New,Resmi,OLX,Makassar
+376,iPhone 11,64,White,2021,7150000,Bekas,Mulus,Resmi,OLX,Bandung
+377,iPhone 11,128,Purple,2021,7850000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+378,iPhone 11 Pro,64,Space Gray,2021,8950000,Bekas,Mulus,Ex-Inter,Kaskus,Bandung
+379,iPhone 11 Pro Max,256,Silver,2022,9950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+380,iPhone 12,64,Red,2022,7750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+381,iPhone 12 Pro,128,Gold,2022,10450000,Bekas,Mulus,Resmi,Kaskus,Bandung
+382,iPhone 12 Pro Max,128,Pacific Blue,2023,11750000,Bekas,Mulus,Resmi,OLX,Bandung
+383,iPhone 13,128,Blue,2023,9150000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+384,iPhone 13 Pro,256,Sierra Blue,2023,14950000,Bekas,Mulus,Resmi,Kaskus,Bandung
+385,iPhone 14,128,Starlight,2024,10150000,Bekas,Mulus,Resmi,OLX,Bandung
+386,iPhone 14 Pro Max,256,Gold,2024,19250000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+387,iPhone 15,128,Green,2025,11550000,Bekas,Mulus,Resmi,Kaskus,Bandung
+388,iPhone 15 Pro,256,White Titanium,2025,20150000,Bekas,Like New,Bea Cukai,OLX,Bandung
+389,iPhone 11,64,Black,2022,6350000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+390,iPhone 11 Pro,64,Silver,2022,6950000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+391,iPhone 11 Pro Max,64,Gold,2023,7250000,Bekas,Lecet,Ex-Inter,Kaskus,Jakarta
+392,iPhone 12,64,Blue,2023,6950000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+393,iPhone 12 Pro,128,Graphite,2023,9450000,Bekas,Lecet,Resmi,OLX,Jakarta
+394,iPhone 12 Pro Max,128,Silver,2024,9950000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+395,iPhone 13,128,Pink,2024,8050000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+396,iPhone 13 Pro,256,Gold,2024,14450000,Bekas,Lecet,Resmi,OLX,Jakarta
+397,iPhone 13 Pro Max,256,Sierra Blue,2025,14950000,Bekas,Lecet,Bea Cukai,Kaskus,Jakarta
+398,iPhone 14,128,Purple,2025,9450000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+399,iPhone 14 Pro,256,Deep Purple,2025,16450000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+400,iPhone 14 Pro Max,256,Space Black,2025,18750000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+401,iPhone 11,64,Black,2022,6650000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+402,iPhone 11,64,White,2022,6450000,Bekas,Mulus,Resmi,OLX,Jakarta
+403,iPhone 11,64,Green,2022,6050000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Bandung
+404,iPhone 11,64,Red,2022,5950000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Bandung
+405,iPhone 11,64,Purple,2022,5750000,Bekas,Batangan,Ex-Inter,Forum Jual Beli,Surabaya
+406,iPhone 11,128,Black,2022,6950000,Bekas,Like New,Resmi,Carousell,Jakarta
+407,iPhone 11,128,White,2022,6750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+408,iPhone 11,128,Green,2023,6450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+409,iPhone 11,128,Red,2023,6250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+410,iPhone 11,128,Purple,2023,6050000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Yogyakarta
+411,iPhone 11,256,Black,2023,7150000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+412,iPhone 11,256,White,2023,6950000,Bekas,Like New,Ex-Inter,Carousell,Bandung
+413,iPhone 11 Pro,64,Space Gray,2022,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Jakarta
+414,iPhone 11 Pro,64,Silver,2022,7250000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+415,iPhone 11 Pro,64,Gold,2022,7150000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+416,iPhone 11 Pro,64,Midnight Green,2023,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+417,iPhone 11 Pro,256,Space Gray,2023,8450000,Bekas,Like New,Bea Cukai,OLX,Batam
+418,iPhone 11 Pro,256,Silver,2023,8250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+419,iPhone 11 Pro,256,Gold,2023,8150000,Bekas,Mulus,Ex-Inter,Carousell,Bandung
+420,iPhone 11 Pro,256,Midnight Green,2024,7750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+421,iPhone 11 Pro,512,Space Gray,2024,8750000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+422,iPhone 11 Pro,512,Silver,2024,8550000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+423,iPhone 11 Pro Max,64,Space Gray,2023,8150000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+424,iPhone 11 Pro Max,64,Silver,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+425,iPhone 11 Pro Max,64,Gold,2023,7750000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+426,iPhone 11 Pro Max,64,Midnight Green,2024,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+427,iPhone 11 Pro Max,256,Space Gray,2024,9450000,Bekas,Like New,Bea Cukai,OLX,Batam
+428,iPhone 11 Pro Max,256,Silver,2024,9250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+429,iPhone 11 Pro Max,256,Gold,2024,9150000,Bekas,Mulus,Resmi,Carousell,Bandung
+430,iPhone 11 Pro Max,256,Midnight Green,2024,8950000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+431,iPhone 11 Pro Max,512,Space Gray,2024,9950000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+432,iPhone 11 Pro Max,512,Silver,2025,9750000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+433,iPhone 11 Pro Max,512,Gold,2025,9450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+434,iPhone 11 Pro Max,512,Midnight Green,2025,9150000,Bekas,Lecet Halus,Ex-Inter,Forum Jual Beli,Surabaya
+435,iPhone 12,64,Black,2023,7450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+436,iPhone 12,64,White,2023,7250000,Bekas,Mulus,Resmi,OLX,Bandung
+437,iPhone 12,64,Blue,2023,7150000,Bekas,Like New,Resmi,Kaskus,Jakarta
+438,iPhone 12,64,Green,2024,6750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Surabaya
+439,iPhone 12,64,Red,2024,6550000,Bekas,Lecet Halus,Ex-Inter,Carousell,Yogyakarta
+440,iPhone 12,128,Black,2024,7950000,Bekas,Mulus,Resmi,OLX,Jakarta
+441,iPhone 12,128,White,2024,7750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+442,iPhone 12,128,Blue,2024,7550000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+443,iPhone 12,128,Green,2024,7350000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+444,iPhone 12,128,Red,2025,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+445,iPhone 12,256,Black,2024,8450000,Bekas,Like New,Resmi,Carousell,Jakarta
+446,iPhone 12,256,White,2025,8150000,Bekas,Mulus,Resmi,OLX,Bandung
+447,iPhone 12 Pro,128,Graphite,2023,9950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+448,iPhone 12 Pro,128,Silver,2023,9750000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+449,iPhone 12 Pro,128,Gold,2024,9450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+450,iPhone 12 Pro,128,Pacific Blue,2024,9250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+451,iPhone 12 Pro,256,Graphite,2024,10950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+452,iPhone 12 Pro,256,Silver,2024,10750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+453,iPhone 12 Pro,256,Gold,2024,10450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+454,iPhone 12 Pro,256,Pacific Blue,2025,10150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+455,iPhone 12 Pro,512,Graphite,2024,11950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+456,iPhone 12 Pro,512,Silver,2025,11450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+457,iPhone 12 Pro Max,128,Graphite,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+458,iPhone 12 Pro Max,128,Silver,2024,11250000,Bekas,Mulus,Resmi,OLX,Bandung
+459,iPhone 12 Pro Max,128,Gold,2024,10950000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+460,iPhone 12 Pro Max,128,Pacific Blue,2025,10750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+461,iPhone 12 Pro Max,256,Graphite,2024,12450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+462,iPhone 12 Pro Max,256,Silver,2024,12250000,Bekas,Like New,Resmi,Carousell,Bandung
+463,iPhone 12 Pro Max,256,Gold,2025,11950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+464,iPhone 12 Pro Max,256,Pacific Blue,2025,11750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+465,iPhone 12 Pro Max,512,Graphite,2024,13450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+466,iPhone 12 Pro Max,512,Silver,2025,12950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+467,iPhone 13,128,Midnight,2024,8950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+468,iPhone 13,128,Starlight,2024,8750000,Bekas,Mulus,Resmi,OLX,Bandung
+469,iPhone 13,128,Blue,2024,8550000,Bekas,Like New,Resmi,Kaskus,Jakarta
+470,iPhone 13,128,Pink,2024,8350000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+471,iPhone 13,128,Red,2025,7950000,Bekas,Mulus,Ex-Inter,Carousell,Yogyakarta
+472,iPhone 13,256,Midnight,2024,9950000,Bekas,Mulus,Resmi,OLX,Jakarta
+473,iPhone 13,256,Starlight,2024,9750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+474,iPhone 13,256,Blue,2025,9450000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Surabaya
+475,iPhone 13,256,Pink,2025,9250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+476,iPhone 13,512,Midnight,2025,10950000,Bekas,Mulus,Resmi,Carousell,Jakarta
+477,iPhone 13 Pro,128,Graphite,2024,13950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+478,iPhone 13 Pro,128,Silver,2024,13750000,Bekas,Mulus,Resmi,OLX,Bandung
+479,iPhone 13 Pro,128,Gold,2024,13450000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+480,iPhone 13 Pro,128,Sierra Blue,2024,13250000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+481,iPhone 13 Pro,256,Graphite,2024,14950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+482,iPhone 13 Pro,256,Silver,2024,14750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+483,iPhone 13 Pro,256,Gold,2025,14450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+484,iPhone 13 Pro,256,Sierra Blue,2025,14150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+485,iPhone 13 Pro,512,Graphite,2025,15950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+486,iPhone 13 Pro,1TB,Silver,2025,17450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+487,iPhone 13 Pro Max,128,Graphite,2024,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+488,iPhone 13 Pro Max,128,Silver,2024,14750000,Bekas,Mulus,Resmi,OLX,Bandung
+489,iPhone 13 Pro Max,128,Gold,2025,14450000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+490,iPhone 13 Pro Max,128,Sierra Blue,2025,14250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+491,iPhone 13 Pro Max,256,Graphite,2024,15950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+492,iPhone 13 Pro Max,256,Silver,2024,15750000,Bekas,Like New,Resmi,Carousell,Bandung
+493,iPhone 13 Pro Max,256,Gold,2025,15450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+494,iPhone 13 Pro Max,256,Sierra Blue,2025,15150000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+495,iPhone 13 Pro Max,512,Graphite,2025,16950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+496,iPhone 13 Pro Max,1TB,Silver,2025,18450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+497,iPhone 14,128,Midnight,2024,10450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+498,iPhone 14,128,Starlight,2024,10250000,Bekas,Mulus,Resmi,OLX,Bandung
+499,iPhone 14,128,Blue,2025,9950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+500,iPhone 14,128,Purple,2025,9750000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+501,iPhone 14,256,Midnight,2024,11950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+502,iPhone 14,256,Starlight,2025,11450000,Bekas,Like New,Resmi,Carousell,Bandung
+503,iPhone 14,512,Blue,2025,12950000,Bekas,Mulus,Resmi,OLX,Jakarta
+504,iPhone 14 Plus,128,Midnight,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+505,iPhone 14 Plus,256,Starlight,2025,12950000,Bekas,Mulus,Resmi,OLX,Bandung
+506,iPhone 14 Plus,512,Blue,2025,14450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+507,iPhone 14 Pro,128,Space Black,2024,16450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+508,iPhone 14 Pro,128,Silver,2024,16250000,Bekas,Mulus,Resmi,OLX,Bandung
+509,iPhone 14 Pro,128,Gold,2025,15950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+510,iPhone 14 Pro,128,Deep Purple,2025,15750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+511,iPhone 14 Pro,256,Space Black,2024,17450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+512,iPhone 14 Pro,256,Silver,2025,17150000,Bekas,Like New,Bea Cukai,Carousell,Batam
+513,iPhone 14 Pro,512,Gold,2025,18950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+514,iPhone 14 Pro,1TB,Deep Purple,2025,19950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+515,iPhone 14 Pro Max,128,Space Black,2024,18450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+516,iPhone 14 Pro Max,128,Silver,2025,18150000,Bekas,Mulus,Resmi,OLX,Bandung
+517,iPhone 14 Pro Max,256,Gold,2024,19450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+518,iPhone 14 Pro Max,256,Deep Purple,2025,19150000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+519,iPhone 14 Pro Max,512,Space Black,2025,20950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+520,iPhone 14 Pro Max,1TB,Silver,2025,22450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+521,iPhone 15,128,Black,2025,11950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+522,iPhone 15,128,Blue,2025,11750000,Bekas,Like New,Resmi,Kaskus,Jakarta
+523,iPhone 15,256,Green,2025,13450000,Bekas,Mulus,Resmi,OLX,Bandung
+524,iPhone 15,512,Yellow,2025,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+525,iPhone 15 Plus,128,Pink,2025,13450000,Bekas,Mulus,Resmi,Carousell,Jakarta
+526,iPhone 15 Plus,256,Black,2025,14950000,Bekas,Mulus,Resmi,OLX,Jakarta
+527,iPhone 15 Plus,512,Blue,2025,16450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+528,iPhone 15 Pro,128,Natural Titanium,2025,18450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+529,iPhone 15 Pro,128,Blue Titanium,2025,18250000,Bekas,Mulus,Resmi,OLX,Bandung
+530,iPhone 15 Pro,256,White Titanium,2025,19950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+531,iPhone 15 Pro,256,Black Titanium,2025,19750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+532,iPhone 15 Pro,512,Natural Titanium,2025,22950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+533,iPhone 15 Pro,1TB,Blue Titanium,2025,24950000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+534,iPhone 15 Pro Max,256,White Titanium,2025,21950000,Bekas,Mulus,Resmi,OLX,Jakarta
+535,iPhone 15 Pro Max,256,Black Titanium,2025,21750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+536,iPhone 15 Pro Max,512,Natural Titanium,2025,25950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+537,iPhone 15 Pro Max,1TB,Blue Titanium,2025,29950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+538,iPhone 16,128,Space Black,2025,14450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+539,iPhone 16,256,White,2025,16450000,Bekas,Like New,Resmi,OLX,Jakarta
+540,iPhone 16 Plus,128,Rose Gold,2025,15950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+541,iPhone 16 Plus,256,Green,2025,17950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+542,iPhone 16 Pro,256,Gray Titanium,2025,19950000,Bekas,Like New,Resmi,OLX,Jakarta
+543,iPhone 16 Pro,512,Desert Titanium,2025,23950000,Bekas,Like New,Resmi,Carousell,Jakarta
+544,iPhone 16 Pro Max,256,Natural Titanium,2025,21950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+545,iPhone 16 Pro Max,512,White Titanium,2025,25950000,Bekas,Like New,Resmi,OLX,Jakarta
+546,iPhone 16 Pro Max,1TB,Space Black,2025,29950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+547,iPhone 11,64,Green,2023,6200000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Medan
+548,iPhone 11 Pro,256,Gold,2023,8300000,Bekas,Mulus,Ex-Inter,OLX,Medan
+549,iPhone 12,128,White,2024,7700000,Bekas,Like New,Resmi,Kaskus,Medan
+550,iPhone 12 Pro Max,256,Gold,2024,11900000,Bekas,Mulus,Resmi,Facebook Marketplace,Medan
+551,iPhone 13,256,Pink,2024,9400000,Bekas,Mulus,Resmi,OLX,Medan
+552,iPhone 13 Pro,128,Graphite,2024,13400000,Bekas,Mulus,Resmi,Forum Jual Beli,Medan
+553,iPhone 14,128,Blue,2024,10100000,Bekas,Mulus,Resmi,Carousell,Medan
+554,iPhone 14 Pro Max,256,Deep Purple,2025,19000000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Medan
+555,iPhone 15 Pro,256,Natural Titanium,2025,19900000,Bekas,Like New,Ex-Inter,OLX,Medan
+556,iPhone 11,64,Red,2022,5850000,Bekas,Minus BH 80%,Ex-Inter,Facebook Marketplace,Semarang
+557,iPhone 11 Pro,64,Space Gray,2022,7050000,Bekas,Lecet Ringan,Ex-Inter,Kaskus,Semarang
+558,iPhone 12,64,Blue,2023,7050000,Bekas,Mulus,Resmi,OLX,Semarang
+559,iPhone 12 Pro Max,128,Silver,2023,11350000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+560,iPhone 13,128,Starlight,2024,8650000,Bekas,Like New,Resmi,Forum Jual Beli,Semarang
+561,iPhone 13 Pro,256,Gold,2024,15350000,Bekas,Mulus,Resmi,Carousell,Semarang
+562,iPhone 14,128,Purple,2024,10350000,Bekas,Mulus,Resmi,OLX,Semarang
+563,iPhone 14 Pro Max,256,Silver,2025,19050000,Bekas,Like New,Bea Cukai,Kaskus,Semarang
+564,iPhone 15,256,Black,2025,13250000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+565,iPhone 15 Pro Max,512,Blue Titanium,2025,26950000,Bekas,Like New,Resmi,OLX,Semarang
+566,iPhone 11,64,Yellow,2022,5650000,Bekas,Batangan,Ex-Inter,Facebook Marketplace,Makassar
+567,iPhone 11 Pro,256,Midnight Green,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Makassar
+568,iPhone 12,128,Green,2023,7850000,Bekas,Mulus,Resmi,Kaskus,Makassar
+569,iPhone 12 Pro Max,256,Pacific Blue,2024,11550000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Makassar
+570,iPhone 13,128,Red,2024,8850000,Bekas,Mulus,Resmi,Forum Jual Beli,Makassar
+571,iPhone 13 Pro,256,Alpine Green,2024,15850000,Bekas,Like New,Resmi,Carousell,Makassar
+572,iPhone 14 Pro,128,Gold,2024,16550000,Bekas,Mulus,Resmi,OLX,Makassar
+573,iPhone 14 Pro Max,512,Deep Purple,2025,21150000,Bekas,Like New,Bea Cukai,Kaskus,Makassar
+574,iPhone 15,256,Yellow,2025,13550000,Bekas,Mulus,Resmi,Facebook Marketplace,Makassar
+575,iPhone 15 Pro Max,512,Black Titanium,2025,28150000,Bekas,Like New,Resmi,OLX,Makassar
+576,iPhone 11,64,White,2021,7150000,Bekas,Mulus,Resmi,OLX,Bandung
+577,iPhone 11,128,Purple,2021,7850000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+578,iPhone 11 Pro,64,Space Gray,2021,8950000,Bekas,Mulus,Ex-Inter,Kaskus,Bandung
+579,iPhone 11 Pro Max,256,Silver,2022,9950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+580,iPhone 12,64,Red,2022,7750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+581,iPhone 12 Pro,128,Gold,2022,10450000,Bekas,Mulus,Resmi,Kaskus,Bandung
+582,iPhone 12 Pro Max,128,Pacific Blue,2023,11750000,Bekas,Mulus,Resmi,OLX,Bandung
+583,iPhone 13,128,Blue,2023,9150000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+584,iPhone 13 Pro,256,Sierra Blue,2023,14950000,Bekas,Mulus,Resmi,Kaskus,Bandung
+585,iPhone 14,128,Starlight,2024,10150000,Bekas,Mulus,Resmi,OLX,Bandung
+586,iPhone 14 Pro Max,256,Gold,2024,19250000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+587,iPhone 15,128,Green,2025,11550000,Bekas,Mulus,Resmi,Kaskus,Bandung
+588,iPhone 15 Pro,256,White Titanium,2025,20150000,Bekas,Like New,Bea Cukai,OLX,Bandung
+589,iPhone 11,64,Black,2022,6350000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+590,iPhone 11 Pro,64,Silver,2022,6950000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+591,iPhone 11 Pro Max,64,Gold,2023,7250000,Bekas,Lecet,Ex-Inter,Kaskus,Jakarta
+592,iPhone 12,64,Blue,2023,6950000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+593,iPhone 12 Pro,128,Graphite,2023,9450000,Bekas,Lecet,Resmi,OLX,Jakarta
+594,iPhone 12 Pro Max,128,Silver,2024,9950000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+595,iPhone 13,128,Pink,2024,8050000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+596,iPhone 13 Pro,256,Gold,2024,14450000,Bekas,Lecet,Resmi,OLX,Jakarta
+597,iPhone 13 Pro Max,256,Sierra Blue,2025,14950000,Bekas,Lecet,Bea Cukai,Kaskus,Jakarta
+598,iPhone 14,128,Purple,2025,9450000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+599,iPhone 14 Pro,256,Deep Purple,2025,16450000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+600,iPhone 14 Pro Max,256,Space Black,2025,18750000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+601,iPhone 11,64,Black,2022,6650000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+602,iPhone 11,64,White,2022,6450000,Bekas,Mulus,Resmi,OLX,Jakarta
+603,iPhone 11,64,Green,2022,6050000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Bandung
+604,iPhone 11,64,Red,2022,5950000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Bandung
+605,iPhone 11,64,Purple,2022,5750000,Bekas,Batangan,Ex-Inter,Forum Jual Beli,Surabaya
+606,iPhone 11,128,Black,2022,6950000,Bekas,Like New,Resmi,Carousell,Jakarta
+607,iPhone 11,128,White,2022,6750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+608,iPhone 11,128,Green,2023,6450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+609,iPhone 11,128,Red,2023,6250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+610,iPhone 11,128,Purple,2023,6050000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Yogyakarta
+611,iPhone 11,256,Black,2023,7150000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+612,iPhone 11,256,White,2023,6950000,Bekas,Like New,Ex-Inter,Carousell,Bandung
+613,iPhone 11 Pro,64,Space Gray,2022,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Jakarta
+614,iPhone 11 Pro,64,Silver,2022,7250000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+615,iPhone 11 Pro,64,Gold,2022,7150000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+616,iPhone 11 Pro,64,Midnight Green,2023,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+617,iPhone 11 Pro,256,Space Gray,2023,8450000,Bekas,Like New,Bea Cukai,OLX,Batam
+618,iPhone 11 Pro,256,Silver,2023,8250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+619,iPhone 11 Pro,256,Gold,2023,8150000,Bekas,Mulus,Ex-Inter,Carousell,Bandung
+620,iPhone 11 Pro,256,Midnight Green,2024,7750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+621,iPhone 11 Pro,512,Space Gray,2024,8750000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+622,iPhone 11 Pro,512,Silver,2024,8550000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+623,iPhone 11 Pro Max,64,Space Gray,2023,8150000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+624,iPhone 11 Pro Max,64,Silver,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+625,iPhone 11 Pro Max,64,Gold,2023,7750000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+626,iPhone 11 Pro Max,64,Midnight Green,2024,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+627,iPhone 11 Pro Max,256,Space Gray,2024,9450000,Bekas,Like New,Bea Cukai,OLX,Batam
+628,iPhone 11 Pro Max,256,Silver,2024,9250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+629,iPhone 11 Pro Max,256,Gold,2024,9150000,Bekas,Mulus,Resmi,Carousell,Bandung
+630,iPhone 11 Pro Max,256,Midnight Green,2024,8950000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+631,iPhone 11 Pro Max,512,Space Gray,2024,9950000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+632,iPhone 11 Pro Max,512,Silver,2025,9750000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+633,iPhone 11 Pro Max,512,Gold,2025,9450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+634,iPhone 11 Pro Max,512,Midnight Green,2025,9150000,Bekas,Lecet Halus,Ex-Inter,Forum Jual Beli,Surabaya
+635,iPhone 12,64,Black,2023,7450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+636,iPhone 12,64,White,2023,7250000,Bekas,Mulus,Resmi,OLX,Bandung
+637,iPhone 12,64,Blue,2023,7150000,Bekas,Like New,Resmi,Kaskus,Jakarta
+638,iPhone 12,64,Green,2024,6750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Surabaya
+639,iPhone 12,64,Red,2024,6550000,Bekas,Lecet Halus,Ex-Inter,Carousell,Yogyakarta
+640,iPhone 12,128,Black,2024,7950000,Bekas,Mulus,Resmi,OLX,Jakarta
+641,iPhone 12,128,White,2024,7750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+642,iPhone 12,128,Blue,2024,7550000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+643,iPhone 12,128,Green,2024,7350000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+644,iPhone 12,128,Red,2025,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+645,iPhone 12,256,Black,2024,8450000,Bekas,Like New,Resmi,Carousell,Jakarta
+646,iPhone 12,256,White,2025,8150000,Bekas,Mulus,Resmi,OLX,Bandung
+647,iPhone 12 Pro,128,Graphite,2023,9950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+648,iPhone 12 Pro,128,Silver,2023,9750000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+649,iPhone 12 Pro,128,Gold,2024,9450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+650,iPhone 12 Pro,128,Pacific Blue,2024,9250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+651,iPhone 12 Pro,256,Graphite,2024,10950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+652,iPhone 12 Pro,256,Silver,2024,10750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+653,iPhone 12 Pro,256,Gold,2024,10450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+654,iPhone 12 Pro,256,Pacific Blue,2025,10150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+655,iPhone 12 Pro,512,Graphite,2024,11950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+656,iPhone 12 Pro,512,Silver,2025,11450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+657,iPhone 12 Pro Max,128,Graphite,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+658,iPhone 12 Pro Max,128,Silver,2024,11250000,Bekas,Mulus,Resmi,OLX,Bandung
+659,iPhone 12 Pro Max,128,Gold,2024,10950000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+660,iPhone 12 Pro Max,128,Pacific Blue,2025,10750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+661,iPhone 12 Pro Max,256,Graphite,2024,12450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+662,iPhone 12 Pro Max,256,Silver,2024,12250000,Bekas,Like New,Resmi,Carousell,Bandung
+663,iPhone 12 Pro Max,256,Gold,2025,11950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+664,iPhone 12 Pro Max,256,Pacific Blue,2025,11750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+665,iPhone 12 Pro Max,512,Graphite,2024,13450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+666,iPhone 12 Pro Max,512,Silver,2025,12950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+667,iPhone 13,128,Midnight,2024,8950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+668,iPhone 13,128,Starlight,2024,8750000,Bekas,Mulus,Resmi,OLX,Bandung
+669,iPhone 13,128,Blue,2024,8550000,Bekas,Like New,Resmi,Kaskus,Jakarta
+670,iPhone 13,128,Pink,2024,8350000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+671,iPhone 13,128,Red,2025,7950000,Bekas,Mulus,Ex-Inter,Carousell,Yogyakarta
+672,iPhone 13,256,Midnight,2024,9950000,Bekas,Mulus,Resmi,OLX,Jakarta
+673,iPhone 13,256,Starlight,2024,9750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+674,iPhone 13,256,Blue,2025,9450000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Surabaya
+675,iPhone 13,256,Pink,2025,9250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+676,iPhone 13,512,Midnight,2025,10950000,Bekas,Mulus,Resmi,Carousell,Jakarta
+677,iPhone 13 Pro,128,Graphite,2024,13950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+678,iPhone 13 Pro,128,Silver,2024,13750000,Bekas,Mulus,Resmi,OLX,Bandung
+679,iPhone 13 Pro,128,Gold,2024,13450000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+680,iPhone 13 Pro,128,Sierra Blue,2024,13250000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+681,iPhone 13 Pro,256,Graphite,2024,14950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+682,iPhone 13 Pro,256,Silver,2024,14750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+683,iPhone 13 Pro,256,Gold,2025,14450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+684,iPhone 13 Pro,256,Sierra Blue,2025,14150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+685,iPhone 13 Pro,512,Graphite,2025,15950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+686,iPhone 13 Pro,1TB,Silver,2025,17450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+687,iPhone 13 Pro Max,128,Graphite,2024,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+688,iPhone 13 Pro Max,128,Silver,2024,14750000,Bekas,Mulus,Resmi,OLX,Bandung
+689,iPhone 13 Pro Max,128,Gold,2025,14450000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+690,iPhone 13 Pro Max,128,Sierra Blue,2025,14250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+691,iPhone 13 Pro Max,256,Graphite,2024,15950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+692,iPhone 13 Pro Max,256,Silver,2024,15750000,Bekas,Like New,Resmi,Carousell,Bandung
+693,iPhone 13 Pro Max,256,Gold,2025,15450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+694,iPhone 13 Pro Max,256,Sierra Blue,2025,15150000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+695,iPhone 13 Pro Max,512,Graphite,2025,16950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+696,iPhone 13 Pro Max,1TB,Silver,2025,18450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+697,iPhone 14,128,Midnight,2024,10450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+698,iPhone 14,128,Starlight,2024,10250000,Bekas,Mulus,Resmi,OLX,Bandung
+699,iPhone 14,128,Blue,2025,9950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+700,iPhone 14,128,Purple,2025,9750000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+701,iPhone 14,256,Midnight,2024,11950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+702,iPhone 14,256,Starlight,2025,11450000,Bekas,Like New,Resmi,Carousell,Bandung
+703,iPhone 14,512,Blue,2025,12950000,Bekas,Mulus,Resmi,OLX,Jakarta
+704,iPhone 14 Plus,128,Midnight,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+705,iPhone 14 Plus,256,Starlight,2025,12950000,Bekas,Mulus,Resmi,OLX,Bandung
+706,iPhone 14 Plus,512,Blue,2025,14450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+707,iPhone 14 Pro,128,Space Black,2024,16450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+708,iPhone 14 Pro,128,Silver,2024,16250000,Bekas,Mulus,Resmi,OLX,Bandung
+709,iPhone 14 Pro,128,Gold,2025,15950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+710,iPhone 14 Pro,128,Deep Purple,2025,15750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+711,iPhone 14 Pro,256,Space Black,2024,17450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+712,iPhone 14 Pro,256,Silver,2025,17150000,Bekas,Like New,Bea Cukai,Carousell,Batam
+713,iPhone 14 Pro,512,Gold,2025,18950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+714,iPhone 14 Pro,1TB,Deep Purple,2025,19950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+715,iPhone 14 Pro Max,128,Space Black,2024,18450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+716,iPhone 14 Pro Max,128,Silver,2025,18150000,Bekas,Mulus,Resmi,OLX,Bandung
+717,iPhone 14 Pro Max,256,Gold,2024,19450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+718,iPhone 14 Pro Max,256,Deep Purple,2025,19150000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+719,iPhone 14 Pro Max,512,Space Black,2025,20950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+720,iPhone 14 Pro Max,1TB,Silver,2025,22450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+721,iPhone 15,128,Black,2025,11950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+722,iPhone 15,128,Blue,2025,11750000,Bekas,Like New,Resmi,Kaskus,Jakarta
+723,iPhone 15,256,Green,2025,13450000,Bekas,Mulus,Resmi,OLX,Bandung
+724,iPhone 15,512,Yellow,2025,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+725,iPhone 15 Plus,128,Pink,2025,13450000,Bekas,Mulus,Resmi,Carousell,Jakarta
+726,iPhone 15 Plus,256,Black,2025,14950000,Bekas,Mulus,Resmi,OLX,Jakarta
+727,iPhone 15 Plus,512,Blue,2025,16450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+728,iPhone 15 Pro,128,Natural Titanium,2025,18450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+729,iPhone 15 Pro,128,Blue Titanium,2025,18250000,Bekas,Mulus,Resmi,OLX,Bandung
+730,iPhone 15 Pro,256,White Titanium,2025,19950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+731,iPhone 15 Pro,256,Black Titanium,2025,19750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+732,iPhone 15 Pro,512,Natural Titanium,2025,22950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+733,iPhone 15 Pro,1TB,Blue Titanium,2025,24950000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+734,iPhone 15 Pro Max,256,White Titanium,2025,21950000,Bekas,Mulus,Resmi,OLX,Jakarta
+735,iPhone 15 Pro Max,256,Black Titanium,2025,21750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+736,iPhone 15 Pro Max,512,Natural Titanium,2025,25950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+737,iPhone 15 Pro Max,1TB,Blue Titanium,2025,29950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+738,iPhone 16,128,Space Black,2025,14450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+739,iPhone 16,256,White,2025,16450000,Bekas,Like New,Resmi,OLX,Jakarta
+740,iPhone 16 Plus,128,Rose Gold,2025,15950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+741,iPhone 16 Plus,256,Green,2025,17950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+742,iPhone 16 Pro,256,Gray Titanium,2025,19950000,Bekas,Like New,Resmi,OLX,Jakarta
+743,iPhone 16 Pro,512,Desert Titanium,2025,23950000,Bekas,Like New,Resmi,Carousell,Jakarta
+744,iPhone 16 Pro Max,256,Natural Titanium,2025,21950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+745,iPhone 16 Pro Max,512,White Titanium,2025,25950000,Bekas,Like New,Resmi,OLX,Jakarta
+746,iPhone 16 Pro Max,1TB,Space Black,2025,29950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+747,iPhone 11,64,Green,2023,6200000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Medan
+748,iPhone 11 Pro,256,Gold,2023,8300000,Bekas,Mulus,Ex-Inter,OLX,Medan
+749,iPhone 12,128,White,2024,7700000,Bekas,Like New,Resmi,Kaskus,Medan
+750,iPhone 12 Pro Max,256,Gold,2024,11900000,Bekas,Mulus,Resmi,Facebook Marketplace,Medan
+751,iPhone 13,256,Pink,2024,9400000,Bekas,Mulus,Resmi,OLX,Medan
+752,iPhone 13 Pro,128,Graphite,2024,13400000,Bekas,Mulus,Resmi,Forum Jual Beli,Medan
+753,iPhone 14,128,Blue,2024,10100000,Bekas,Mulus,Resmi,Carousell,Medan
+754,iPhone 14 Pro Max,256,Deep Purple,2025,19000000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Medan
+755,iPhone 15 Pro,256,Natural Titanium,2025,19900000,Bekas,Like New,Ex-Inter,OLX,Medan
+756,iPhone 11,64,Red,2022,5850000,Bekas,Minus BH 80%,Ex-Inter,Facebook Marketplace,Semarang
+757,iPhone 11 Pro,64,Space Gray,2022,7050000,Bekas,Lecet Ringan,Ex-Inter,Kaskus,Semarang
+758,iPhone 12,64,Blue,2023,7050000,Bekas,Mulus,Resmi,OLX,Semarang
+759,iPhone 12 Pro Max,128,Silver,2023,11350000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+760,iPhone 13,128,Starlight,2024,8650000,Bekas,Like New,Resmi,Forum Jual Beli,Semarang
+761,iPhone 13 Pro,256,Gold,2024,15350000,Bekas,Mulus,Resmi,Carousell,Semarang
+762,iPhone 14,128,Purple,2024,10350000,Bekas,Mulus,Resmi,OLX,Semarang
+763,iPhone 14 Pro Max,256,Silver,2025,19050000,Bekas,Like New,Bea Cukai,Kaskus,Semarang
+764,iPhone 15,256,Black,2025,13250000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+765,iPhone 15 Pro Max,512,Blue Titanium,2025,26950000,Bekas,Like New,Resmi,OLX,Semarang
+766,iPhone 11,64,Yellow,2022,5650000,Bekas,Batangan,Ex-Inter,Facebook Marketplace,Makassar
+767,iPhone 11 Pro,256,Midnight Green,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Makassar
+768,iPhone 12,128,Green,2023,7850000,Bekas,Mulus,Resmi,Kaskus,Makassar
+769,iPhone 12 Pro Max,256,Pacific Blue,2024,11550000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Makassar
+770,iPhone 13,128,Red,2024,8850000,Bekas,Mulus,Resmi,Forum Jual Beli,Makassar
+771,iPhone 13 Pro,256,Alpine Green,2024,15850000,Bekas,Like New,Resmi,Carousell,Makassar
+772,iPhone 14 Pro,128,Gold,2024,16550000,Bekas,Mulus,Resmi,OLX,Makassar
+773,iPhone 14 Pro Max,512,Deep Purple,2025,21150000,Bekas,Like New,Bea Cukai,Kaskus,Makassar
+774,iPhone 15,256,Yellow,2025,13550000,Bekas,Mulus,Resmi,Facebook Marketplace,Makassar
+775,iPhone 15 Pro Max,512,Black Titanium,2025,28150000,Bekas,Like New,Resmi,OLX,Makassar
+776,iPhone 11,64,White,2021,7150000,Bekas,Mulus,Resmi,OLX,Bandung
+777,iPhone 11,128,Purple,2021,7850000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+778,iPhone 11 Pro,64,Space Gray,2021,8950000,Bekas,Mulus,Ex-Inter,Kaskus,Bandung
+779,iPhone 11 Pro Max,256,Silver,2022,9950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+780,iPhone 12,64,Red,2022,7750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+781,iPhone 12 Pro,128,Gold,2022,10450000,Bekas,Mulus,Resmi,Kaskus,Bandung
+782,iPhone 12 Pro Max,128,Pacific Blue,2023,11750000,Bekas,Mulus,Resmi,OLX,Bandung
+783,iPhone 13,128,Blue,2023,9150000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+784,iPhone 13 Pro,256,Sierra Blue,2023,14950000,Bekas,Mulus,Resmi,Kaskus,Bandung
+785,iPhone 14,128,Starlight,2024,10150000,Bekas,Mulus,Resmi,OLX,Bandung
+786,iPhone 14 Pro Max,256,Gold,2024,19250000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+787,iPhone 15,128,Green,2025,11550000,Bekas,Mulus,Resmi,Kaskus,Bandung
+788,iPhone 15 Pro,256,White Titanium,2025,20150000,Bekas,Like New,Bea Cukai,OLX,Bandung
+789,iPhone 11,64,Black,2022,6350000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+790,iPhone 11 Pro,64,Silver,2022,6950000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+791,iPhone 11 Pro Max,64,Gold,2023,7250000,Bekas,Lecet,Ex-Inter,Kaskus,Jakarta
+792,iPhone 12,64,Blue,2023,6950000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+793,iPhone 12 Pro,128,Graphite,2023,9450000,Bekas,Lecet,Resmi,OLX,Jakarta
+794,iPhone 12 Pro Max,128,Silver,2024,9950000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+795,iPhone 13,128,Pink,2024,8050000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+796,iPhone 13 Pro,256,Gold,2024,14450000,Bekas,Lecet,Resmi,OLX,Jakarta
+797,iPhone 13 Pro Max,256,Sierra Blue,2025,14950000,Bekas,Lecet,Bea Cukai,Kaskus,Jakarta
+798,iPhone 14,128,Purple,2025,9450000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+799,iPhone 14 Pro,256,Deep Purple,2025,16450000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+800,iPhone 14 Pro Max,256,Space Black,2025,18750000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+801,iPhone 11,64,Black,2022,6650000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+802,iPhone 11,64,White,2022,6450000,Bekas,Mulus,Resmi,OLX,Jakarta
+803,iPhone 11,64,Green,2022,6050000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Bandung
+804,iPhone 11,64,Red,2022,5950000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Bandung
+805,iPhone 11,64,Purple,2022,5750000,Bekas,Batangan,Ex-Inter,Forum Jual Beli,Surabaya
+806,iPhone 11,128,Black,2022,6950000,Bekas,Like New,Resmi,Carousell,Jakarta
+807,iPhone 11,128,White,2022,6750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+808,iPhone 11,128,Green,2023,6450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+809,iPhone 11,128,Red,2023,6250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+810,iPhone 11,128,Purple,2023,6050000,Bekas,Lecet Pemakaian,Ex-Inter,Facebook Marketplace,Yogyakarta
+811,iPhone 11,256,Black,2023,7150000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+812,iPhone 11,256,White,2023,6950000,Bekas,Like New,Ex-Inter,Carousell,Bandung
+813,iPhone 11 Pro,64,Space Gray,2022,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Jakarta
+814,iPhone 11 Pro,64,Silver,2022,7250000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+815,iPhone 11 Pro,64,Gold,2022,7150000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+816,iPhone 11 Pro,64,Midnight Green,2023,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+817,iPhone 11 Pro,256,Space Gray,2023,8450000,Bekas,Like New,Bea Cukai,OLX,Batam
+818,iPhone 11 Pro,256,Silver,2023,8250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+819,iPhone 11 Pro,256,Gold,2023,8150000,Bekas,Mulus,Ex-Inter,Carousell,Bandung
+820,iPhone 11 Pro,256,Midnight Green,2024,7750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+821,iPhone 11 Pro,512,Space Gray,2024,8750000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+822,iPhone 11 Pro,512,Silver,2024,8550000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+823,iPhone 11 Pro Max,64,Space Gray,2023,8150000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+824,iPhone 11 Pro Max,64,Silver,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+825,iPhone 11 Pro Max,64,Gold,2023,7750000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+826,iPhone 11 Pro Max,64,Midnight Green,2024,7450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+827,iPhone 11 Pro Max,256,Space Gray,2024,9450000,Bekas,Like New,Bea Cukai,OLX,Batam
+828,iPhone 11 Pro Max,256,Silver,2024,9250000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Jakarta
+829,iPhone 11 Pro Max,256,Gold,2024,9150000,Bekas,Mulus,Resmi,Carousell,Bandung
+830,iPhone 11 Pro Max,256,Midnight Green,2024,8950000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+831,iPhone 11 Pro Max,512,Space Gray,2024,9950000,Bekas,Mulus,Ex-Inter,OLX,Jakarta
+832,iPhone 11 Pro Max,512,Silver,2025,9750000,Bekas,Like New,Ex-Inter,Kaskus,Bandung
+833,iPhone 11 Pro Max,512,Gold,2025,9450000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+834,iPhone 11 Pro Max,512,Midnight Green,2025,9150000,Bekas,Lecet Halus,Ex-Inter,Forum Jual Beli,Surabaya
+835,iPhone 12,64,Black,2023,7450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+836,iPhone 12,64,White,2023,7250000,Bekas,Mulus,Resmi,OLX,Bandung
+837,iPhone 12,64,Blue,2023,7150000,Bekas,Like New,Resmi,Kaskus,Jakarta
+838,iPhone 12,64,Green,2024,6750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Surabaya
+839,iPhone 12,64,Red,2024,6550000,Bekas,Lecet Halus,Ex-Inter,Carousell,Yogyakarta
+840,iPhone 12,128,Black,2024,7950000,Bekas,Mulus,Resmi,OLX,Jakarta
+841,iPhone 12,128,White,2024,7750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+842,iPhone 12,128,Blue,2024,7550000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+843,iPhone 12,128,Green,2024,7350000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Surabaya
+844,iPhone 12,128,Red,2025,6950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+845,iPhone 12,256,Black,2024,8450000,Bekas,Like New,Resmi,Carousell,Jakarta
+846,iPhone 12,256,White,2025,8150000,Bekas,Mulus,Resmi,OLX,Bandung
+847,iPhone 12 Pro,128,Graphite,2023,9950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+848,iPhone 12 Pro,128,Silver,2023,9750000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+849,iPhone 12 Pro,128,Gold,2024,9450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+850,iPhone 12 Pro,128,Pacific Blue,2024,9250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+851,iPhone 12 Pro,256,Graphite,2024,10950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+852,iPhone 12 Pro,256,Silver,2024,10750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+853,iPhone 12 Pro,256,Gold,2024,10450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+854,iPhone 12 Pro,256,Pacific Blue,2025,10150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+855,iPhone 12 Pro,512,Graphite,2024,11950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+856,iPhone 12 Pro,512,Silver,2025,11450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+857,iPhone 12 Pro Max,128,Graphite,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+858,iPhone 12 Pro Max,128,Silver,2024,11250000,Bekas,Mulus,Resmi,OLX,Bandung
+859,iPhone 12 Pro Max,128,Gold,2024,10950000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+860,iPhone 12 Pro Max,128,Pacific Blue,2025,10750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+861,iPhone 12 Pro Max,256,Graphite,2024,12450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+862,iPhone 12 Pro Max,256,Silver,2024,12250000,Bekas,Like New,Resmi,Carousell,Bandung
+863,iPhone 12 Pro Max,256,Gold,2025,11950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+864,iPhone 12 Pro Max,256,Pacific Blue,2025,11750000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+865,iPhone 12 Pro Max,512,Graphite,2024,13450000,Bekas,Like New,Resmi,Kaskus,Jakarta
+866,iPhone 12 Pro Max,512,Silver,2025,12950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+867,iPhone 13,128,Midnight,2024,8950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+868,iPhone 13,128,Starlight,2024,8750000,Bekas,Mulus,Resmi,OLX,Bandung
+869,iPhone 13,128,Blue,2024,8550000,Bekas,Like New,Resmi,Kaskus,Jakarta
+870,iPhone 13,128,Pink,2024,8350000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+871,iPhone 13,128,Red,2025,7950000,Bekas,Mulus,Ex-Inter,Carousell,Yogyakarta
+872,iPhone 13,256,Midnight,2024,9950000,Bekas,Mulus,Resmi,OLX,Jakarta
+873,iPhone 13,256,Starlight,2024,9750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+874,iPhone 13,256,Blue,2025,9450000,Bekas,Mulus,Ex-Inter,Forum Jual Beli,Surabaya
+875,iPhone 13,256,Pink,2025,9250000,Bekas,Lecet Halus,Ex-Inter,Kaskus,Yogyakarta
+876,iPhone 13,512,Midnight,2025,10950000,Bekas,Mulus,Resmi,Carousell,Jakarta
+877,iPhone 13 Pro,128,Graphite,2024,13950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+878,iPhone 13 Pro,128,Silver,2024,13750000,Bekas,Mulus,Resmi,OLX,Bandung
+879,iPhone 13 Pro,128,Gold,2024,13450000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+880,iPhone 13 Pro,128,Sierra Blue,2024,13250000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+881,iPhone 13 Pro,256,Graphite,2024,14950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+882,iPhone 13 Pro,256,Silver,2024,14750000,Bekas,Like New,Bea Cukai,Carousell,Batam
+883,iPhone 13 Pro,256,Gold,2025,14450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+884,iPhone 13 Pro,256,Sierra Blue,2025,14150000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+885,iPhone 13 Pro,512,Graphite,2025,15950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+886,iPhone 13 Pro,1TB,Silver,2025,17450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+887,iPhone 13 Pro Max,128,Graphite,2024,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+888,iPhone 13 Pro Max,128,Silver,2024,14750000,Bekas,Mulus,Resmi,OLX,Bandung
+889,iPhone 13 Pro Max,128,Gold,2025,14450000,Bekas,Like New,Ex-Inter,Kaskus,Surabaya
+890,iPhone 13 Pro Max,128,Sierra Blue,2025,14250000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+891,iPhone 13 Pro Max,256,Graphite,2024,15950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+892,iPhone 13 Pro Max,256,Silver,2024,15750000,Bekas,Like New,Resmi,Carousell,Bandung
+893,iPhone 13 Pro Max,256,Gold,2025,15450000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+894,iPhone 13 Pro Max,256,Sierra Blue,2025,15150000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Batam
+895,iPhone 13 Pro Max,512,Graphite,2025,16950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+896,iPhone 13 Pro Max,1TB,Silver,2025,18450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+897,iPhone 14,128,Midnight,2024,10450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+898,iPhone 14,128,Starlight,2024,10250000,Bekas,Mulus,Resmi,OLX,Bandung
+899,iPhone 14,128,Blue,2025,9950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+900,iPhone 14,128,Purple,2025,9750000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+901,iPhone 14,256,Midnight,2024,11950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+902,iPhone 14,256,Starlight,2025,11450000,Bekas,Like New,Resmi,Carousell,Bandung
+903,iPhone 14,512,Blue,2025,12950000,Bekas,Mulus,Resmi,OLX,Jakarta
+904,iPhone 14 Plus,128,Midnight,2024,11450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+905,iPhone 14 Plus,256,Starlight,2025,12950000,Bekas,Mulus,Resmi,OLX,Bandung
+906,iPhone 14 Plus,512,Blue,2025,14450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+907,iPhone 14 Pro,128,Space Black,2024,16450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+908,iPhone 14 Pro,128,Silver,2024,16250000,Bekas,Mulus,Resmi,OLX,Bandung
+909,iPhone 14 Pro,128,Gold,2025,15950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+910,iPhone 14 Pro,128,Deep Purple,2025,15750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+911,iPhone 14 Pro,256,Space Black,2024,17450000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+912,iPhone 14 Pro,256,Silver,2025,17150000,Bekas,Like New,Bea Cukai,Carousell,Batam
+913,iPhone 14 Pro,512,Gold,2025,18950000,Bekas,Mulus,Ex-Inter,OLX,Surabaya
+914,iPhone 14 Pro,1TB,Deep Purple,2025,19950000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+915,iPhone 14 Pro Max,128,Space Black,2024,18450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+916,iPhone 14 Pro Max,128,Silver,2025,18150000,Bekas,Mulus,Resmi,OLX,Bandung
+917,iPhone 14 Pro Max,256,Gold,2024,19450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+918,iPhone 14 Pro Max,256,Deep Purple,2025,19150000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+919,iPhone 14 Pro Max,512,Space Black,2025,20950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+920,iPhone 14 Pro Max,1TB,Silver,2025,22450000,Bekas,Mulus,Bea Cukai,OLX,Batam
+921,iPhone 15,128,Black,2025,11950000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+922,iPhone 15,128,Blue,2025,11750000,Bekas,Like New,Resmi,Kaskus,Jakarta
+923,iPhone 15,256,Green,2025,13450000,Bekas,Mulus,Resmi,OLX,Bandung
+924,iPhone 15,512,Yellow,2025,14950000,Bekas,Mulus,Resmi,Facebook Marketplace,Surabaya
+925,iPhone 15 Plus,128,Pink,2025,13450000,Bekas,Mulus,Resmi,Carousell,Jakarta
+926,iPhone 15 Plus,256,Black,2025,14950000,Bekas,Mulus,Resmi,OLX,Jakarta
+927,iPhone 15 Plus,512,Blue,2025,16450000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+928,iPhone 15 Pro,128,Natural Titanium,2025,18450000,Bekas,Mulus,Resmi,Facebook Marketplace,Jakarta
+929,iPhone 15 Pro,128,Blue Titanium,2025,18250000,Bekas,Mulus,Resmi,OLX,Bandung
+930,iPhone 15 Pro,256,White Titanium,2025,19950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+931,iPhone 15 Pro,256,Black Titanium,2025,19750000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Yogyakarta
+932,iPhone 15 Pro,512,Natural Titanium,2025,22950000,Bekas,Mulus,Resmi,Forum Jual Beli,Jakarta
+933,iPhone 15 Pro,1TB,Blue Titanium,2025,24950000,Bekas,Mulus,Bea Cukai,Carousell,Batam
+934,iPhone 15 Pro Max,256,White Titanium,2025,21950000,Bekas,Mulus,Resmi,OLX,Jakarta
+935,iPhone 15 Pro Max,256,Black Titanium,2025,21750000,Bekas,Like New,Resmi,Facebook Marketplace,Bandung
+936,iPhone 15 Pro Max,512,Natural Titanium,2025,25950000,Bekas,Mulus,Resmi,Kaskus,Jakarta
+937,iPhone 15 Pro Max,1TB,Blue Titanium,2025,29950000,Bekas,Mulus,Bea Cukai,OLX,Batam
+938,iPhone 16,128,Space Black,2025,14450000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+939,iPhone 16,256,White,2025,16450000,Bekas,Like New,Resmi,OLX,Jakarta
+940,iPhone 16 Plus,128,Rose Gold,2025,15950000,Bekas,Like New,Resmi,Kaskus,Jakarta
+941,iPhone 16 Plus,256,Green,2025,17950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+942,iPhone 16 Pro,256,Gray Titanium,2025,19950000,Bekas,Like New,Resmi,OLX,Jakarta
+943,iPhone 16 Pro,512,Desert Titanium,2025,23950000,Bekas,Like New,Resmi,Carousell,Jakarta
+944,iPhone 16 Pro Max,256,Natural Titanium,2025,21950000,Bekas,Like New,Resmi,Facebook Marketplace,Jakarta
+945,iPhone 16 Pro Max,512,White Titanium,2025,25950000,Bekas,Like New,Resmi,OLX,Jakarta
+946,iPhone 16 Pro Max,1TB,Space Black,2025,29950000,Bekas,Like New,Bea Cukai,Kaskus,Batam
+947,iPhone 11,64,Green,2023,6200000,Bekas,Mulus,Ex-Inter,Facebook Marketplace,Medan
+948,iPhone 11 Pro,256,Gold,2023,8300000,Bekas,Mulus,Ex-Inter,OLX,Medan
+949,iPhone 12,128,White,2024,7700000,Bekas,Like New,Resmi,Kaskus,Medan
+950,iPhone 12 Pro Max,256,Gold,2024,11900000,Bekas,Mulus,Resmi,Facebook Marketplace,Medan
+951,iPhone 13,256,Pink,2024,9400000,Bekas,Mulus,Resmi,OLX,Medan
+952,iPhone 13 Pro,128,Graphite,2024,13400000,Bekas,Mulus,Resmi,Forum Jual Beli,Medan
+953,iPhone 14,128,Blue,2024,10100000,Bekas,Mulus,Resmi,Carousell,Medan
+954,iPhone 14 Pro Max,256,Deep Purple,2025,19000000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Medan
+955,iPhone 15 Pro,256,Natural Titanium,2025,19900000,Bekas,Like New,Ex-Inter,OLX,Medan
+956,iPhone 11,64,Red,2022,5850000,Bekas,Minus BH 80%,Ex-Inter,Facebook Marketplace,Semarang
+957,iPhone 11 Pro,64,Space Gray,2022,7050000,Bekas,Lecet Ringan,Ex-Inter,Kaskus,Semarang
+958,iPhone 12,64,Blue,2023,7050000,Bekas,Mulus,Resmi,OLX,Semarang
+959,iPhone 12 Pro Max,128,Silver,2023,11350000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+960,iPhone 13,128,Starlight,2024,8650000,Bekas,Like New,Resmi,Forum Jual Beli,Semarang
+961,iPhone 13 Pro,256,Gold,2024,15350000,Bekas,Mulus,Resmi,Carousell,Semarang
+962,iPhone 14,128,Purple,2024,10350000,Bekas,Mulus,Resmi,OLX,Semarang
+963,iPhone 14 Pro Max,256,Silver,2025,19050000,Bekas,Like New,Bea Cukai,Kaskus,Semarang
+964,iPhone 15,256,Black,2025,13250000,Bekas,Mulus,Resmi,Facebook Marketplace,Semarang
+965,iPhone 15 Pro Max,512,Blue Titanium,2025,26950000,Bekas,Like New,Resmi,OLX,Semarang
+966,iPhone 11,64,Yellow,2022,5650000,Bekas,Batangan,Ex-Inter,Facebook Marketplace,Makassar
+967,iPhone 11 Pro,256,Midnight Green,2023,7950000,Bekas,Mulus,Ex-Inter,OLX,Makassar
+968,iPhone 12,128,Green,2023,7850000,Bekas,Mulus,Resmi,Kaskus,Makassar
+969,iPhone 12 Pro Max,256,Pacific Blue,2024,11550000,Bekas,Mulus,Bea Cukai,Facebook Marketplace,Makassar
+970,iPhone 13,128,Red,2024,8850000,Bekas,Mulus,Resmi,Forum Jual Beli,Makassar
+971,iPhone 13 Pro,256,Alpine Green,2024,15850000,Bekas,Like New,Resmi,Carousell,Makassar
+972,iPhone 14 Pro,128,Gold,2024,16550000,Bekas,Mulus,Resmi,OLX,Makassar
+973,iPhone 14 Pro Max,512,Deep Purple,2025,21150000,Bekas,Like New,Bea Cukai,Kaskus,Makassar
+974,iPhone 15,256,Yellow,2025,13550000,Bekas,Mulus,Resmi,Facebook Marketplace,Makassar
+975,iPhone 15 Pro Max,512,Black Titanium,2025,28150000,Bekas,Like New,Resmi,OLX,Makassar
+976,iPhone 11,64,White,2021,7150000,Bekas,Mulus,Resmi,OLX,Bandung
+977,iPhone 11,128,Purple,2021,7850000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+978,iPhone 11 Pro,64,Space Gray,2021,8950000,Bekas,Mulus,Ex-Inter,Kaskus,Bandung
+979,iPhone 11 Pro Max,256,Silver,2022,9950000,Bekas,Mulus,Ex-Inter,OLX,Bandung
+980,iPhone 12,64,Red,2022,7750000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+981,iPhone 12 Pro,128,Gold,2022,10450000,Bekas,Mulus,Resmi,Kaskus,Bandung
+982,iPhone 12 Pro Max,128,Pacific Blue,2023,11750000,Bekas,Mulus,Resmi,OLX,Bandung
+983,iPhone 13,128,Blue,2023,9150000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+984,iPhone 13 Pro,256,Sierra Blue,2023,14950000,Bekas,Mulus,Resmi,Kaskus,Bandung
+985,iPhone 14,128,Starlight,2024,10150000,Bekas,Mulus,Resmi,OLX,Bandung
+986,iPhone 14 Pro Max,256,Gold,2024,19250000,Bekas,Mulus,Resmi,Facebook Marketplace,Bandung
+987,iPhone 15,128,Green,2025,11550000,Bekas,Mulus,Resmi,Kaskus,Bandung
+988,iPhone 15 Pro,256,White Titanium,2025,20150000,Bekas,Like New,Bea Cukai,OLX,Bandung
+989,iPhone 11,64,Black,2022,6350000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+990,iPhone 11 Pro,64,Silver,2022,6950000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+991,iPhone 11 Pro Max,64,Gold,2023,7250000,Bekas,Lecet,Ex-Inter,Kaskus,Jakarta
+992,iPhone 12,64,Blue,2023,6950000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+993,iPhone 12 Pro,128,Graphite,2023,9450000,Bekas,Lecet,Resmi,OLX,Jakarta
+994,iPhone 12 Pro Max,128,Silver,2024,9950000,Bekas,Lecet,Resmi,Kaskus,Jakarta
+995,iPhone 13,128,Pink,2024,8050000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+996,iPhone 13 Pro,256,Gold,2024,14450000,Bekas,Lecet,Resmi,OLX,Jakarta
+997,iPhone 13 Pro Max,256,Sierra Blue,2025,14950000,Bekas,Lecet,Bea Cukai,Kaskus,Jakarta
+998,iPhone 14,128,Purple,2025,9450000,Bekas,Lecet,Resmi,Facebook Marketplace,Jakarta
+999,iPhone 14 Pro,256,Deep Purple,2025,16450000,Bekas,Lecet,Ex-Inter,OLX,Jakarta
+1000,iPhone 14 Pro Max,256,Space Black,2025,18750000,Bekas,Lecet,Resmi,Kaskus,Jakarta
