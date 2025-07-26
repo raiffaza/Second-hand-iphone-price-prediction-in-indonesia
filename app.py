@@ -22,7 +22,7 @@ st.markdown("""
 def load_model(model_path):
     return joblib.load(model_path)
 
-model_path = 'xgboost(tuned).pkl'
+model_path = 'xgboost_before_tuning.pkl'
 model = load_model(model_path)
 expected_columns = model.feature_names_in_.tolist()
 
