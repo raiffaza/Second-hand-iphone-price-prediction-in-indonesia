@@ -53,7 +53,7 @@ You can access the live prediction model [here](https://second-hand-iphone-price
 
 To run this project locally, you will need to have the following installed:
 
-* Python 3.x
+* Python 3.11.9
 * Libraries:
 
   * Pandas
