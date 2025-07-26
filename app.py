@@ -55,17 +55,39 @@ def make_prediction(
     prediction = model.predict(input_df)[0]
     return format_to_ribuan(prediction)
 
+
 # --- Streamlit Interface ---
-st.title("Prediksi Harga iPhone Second")
+st.title("Prediksi Harga iPhone Second (2021 - 2025)")
 
 available_iphone_models = [
-    "iPhone 11", "iPhone 11 Pro", "iPhone 11 Pro Max", 
+    "iPhone 11", "iPhone 11 Pro", "iPhone 11 Pro Max",
     "iPhone 12", "iPhone 12 Pro", "iPhone 12 Pro Max",
-    "iPhone 13", "iPhone 13 Pro", "iPhone 13 Pro Max",
+    "iPhone 13", "iPhone 13 Pro", "iPhone 13 Pro Max", "iPhone 13 mini",
     "iPhone 14", "iPhone 14 Plus", "iPhone 14 Pro", "iPhone 14 Pro Max",
     "iPhone 15", "iPhone 15 Plus", "iPhone 15 Pro", "iPhone 15 Pro Max",
     "iPhone 16", "iPhone 16 Plus", "iPhone 16 Pro", "iPhone 16 Pro Max"
 ]
+
+# Map tahun rilis iPhone untuk validasi
+iphone_release_year = {
+    "iPhone 13": 2021,
+    "iPhone 13 Pro": 2021,
+    "iPhone 13 Pro Max": 2021,
+    "iPhone 13 mini": 2021,
+    "iPhone 14": 2022,
+    "iPhone 14 Plus": 2022,
+    "iPhone 14 Pro": 2022,
+    "iPhone 14 Pro Max": 2022,
+    "iPhone 15": 2023,
+    "iPhone 15 Plus": 2023,
+    "iPhone 15 Pro": 2023,
+    "iPhone 15 Pro Max": 2023,
+    "iPhone 16": 2024,
+    "iPhone 16 Plus": 2024,
+    "iPhone 16 Pro": 2024,
+    "iPhone 16 Pro Max": 2024,
+    # Models before 2021 (you can add if needed)
+}
 
 available_kapasitas_gb = ["64", "128", "256", "512", "1TB"]
 
@@ -86,27 +108,8 @@ available_sumber = ["Carousell", "Facebook Marketplace", "Forum Jual Beli", "Kas
 
 available_lokasi = ["Bandung", "Batam", "Jakarta", "Makassar", "Medan", "Semarang", "Surabaya", "Yogyakarta"]
 
-# Mapping iPhone model ke tahun rilis
-iphone_release_year = {
-    "iPhone 13": 2021,
-    "iPhone 13 Pro": 2021,
-    "iPhone 13 Pro Max": 2021,
-    "iPhone 14": 2022,
-    "iPhone 14 Plus": 2022,
-    "iPhone 14 Pro": 2022,
-    "iPhone 14 Pro Max": 2022,
-    "iPhone 15": 2023,
-    "iPhone 15 Plus": 2023,
-    "iPhone 15 Pro": 2023,
-    "iPhone 15 Pro Max": 2023,
-    "iPhone 16": 2024,
-    "iPhone 16 Plus": 2024,
-    "iPhone 16 Pro": 2024,
-    "iPhone 16 Pro Max": 2024
-}
-
 with st.form("prediction_form"):
-    tahun_pencatatan = st.number_input("Tahun Pencatatan", min_value=2000, max_value=2025, step=1, value=2021)
+    tahun_pencatatan = st.number_input("Tahun Pencatatan", min_value=2000, max_value=2025, step=1)
     model_iphone = st.selectbox("Model iPhone", options=available_iphone_models)
     kapasitas_gb = st.selectbox("Kapasitas GB", options=available_kapasitas_gb)
     warna = st.selectbox("Warna", options=available_warna)
@@ -114,34 +117,67 @@ with st.form("prediction_form"):
     kategori_pasar = st.selectbox("Kategori Pasar", options=available_kategori_pasar)
     sumber = st.selectbox("Sumber", options=available_sumber)
     lokasi = st.selectbox("Lokasi", options=available_lokasi)
-    
-    # Validasi tahun pencatatan
-    tahun_valid = 2021 <= tahun_pencatatan <= 2025
-    if not tahun_valid:
-        st.warning("Tahun pencatatan harus antara 2021 sampai 2025.")
-    
-    # Validasi tahun rilis model iPhone
-    model_release_year = iphone_release_year.get(model_iphone, None)
-    if model_release_year is not None and tahun_pencatatan < model_release_year:
-        st.warning(f"{model_iphone} pertama kali dirilis pada tahun {model_release_year}. Tidak dapat memprediksi pada tahun {tahun_pencatatan}.")
+    submitted = st.form_submit_button("Prediksi Harga")
 
-    # Disable submit button jika validasi gagal
-    disable_submit = (not tahun_valid) or (model_release_year is not None and tahun_pencatatan < model_release_year)
-    submitted = st.form_submit_button("Prediksi Harga", disabled=disable_submit)
+    # Validasi segera setelah input
+    valid = True
+    messages = []
+
+    # Validasi tahun_pencatatan minimal 2021
+    if tahun_pencatatan < 2021:
+        messages.append("❌ Tahun Pencatatan minimal adalah 2021 dan maksimal 2025.")
+        valid = False
+
+    # Validasi tahun rilis iPhone terhadap tahun_pencatatan
+    release_year = iphone_release_year.get(model_iphone, None)
+    if release_year is None:
+        # Model iPhone tidak ada tahun rilis, diasumsikan sudah rilis (atau bisa diperluas mappingnya)
+        pass
+    else:
+        if tahun_pencatatan < release_year:
+            messages.append(
+                f"❌ iPhone {model_iphone} baru dirilis pada tahun {release_year}. "
+                "Tidak bisa prediksi untuk tahun sebelum itu."
+            )
+            valid = False
+
+    # Validasi semua input wajib diisi (selectbox selalu ada pilihan, jadi yg penting tahun_pencatatan)
+    # Tambahan: pastikan model_iphone, kapasitas_gb, warna, kondisi dll tidak None atau empty string
+    inputs = {
+        "Model iPhone": model_iphone,
+        "Kapasitas GB": kapasitas_gb,
+        "Warna": warna,
+        "Kondisi": kondisi,
+        "Kategori Pasar": kategori_pasar,
+        "Sumber": sumber,
+        "Lokasi": lokasi,
+    }
+
+    for label, val in inputs.items():
+        if val is None or (isinstance(val, str) and val.strip() == ""):
+            messages.append(f"❌ {label} harus dipilih.")
+            valid = False
+
+    # Tampilkan pesan peringatan jika ada
+    if messages:
+        for msg in messages:
+            st.warning(msg)
 
     if submitted:
-        try:
-            # Bungkus input selectbox menjadi list agar kompatibel ke fungsi
-            harga = make_prediction(
-                tahun_pencatatan,
-                [model_iphone],
-                [kapasitas_gb],
-                [warna],
-                [kondisi],
-                [kategori_pasar],
-                [sumber],
-                [lokasi]
-            )
-            st.success(f"Prediksi Harga (IDR): {harga}")
-        except Exception as e:
-            st.error(f"Terjadi error dalam prediksi: {e}")
+        if not valid:
+            st.error("Prediksi tidak dilakukan. Silakan perbaiki input sesuai pesan di atas.")
+        else:
+            try:
+                harga = make_prediction(
+                    tahun_pencatatan,
+                    [model_iphone],
+                    [kapasitas_gb],
+                    [warna],
+                    [kondisi],
+                    [kategori_pasar],
+                    [sumber],
+                    [lokasi]
+                )
+                st.success(f"Prediksi Harga (IDR): {harga}")
+            except Exception as e:
+                st.error(f"Terjadi error dalam prediksi: {e}")
