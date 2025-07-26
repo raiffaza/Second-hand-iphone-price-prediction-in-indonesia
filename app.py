@@ -86,8 +86,27 @@ available_sumber = ["Carousell", "Facebook Marketplace", "Forum Jual Beli", "Kas
 
 available_lokasi = ["Bandung", "Batam", "Jakarta", "Makassar", "Medan", "Semarang", "Surabaya", "Yogyakarta"]
 
+# Mapping iPhone model ke tahun rilis
+iphone_release_year = {
+    "iPhone 13": 2021,
+    "iPhone 13 Pro": 2021,
+    "iPhone 13 Pro Max": 2021,
+    "iPhone 14": 2022,
+    "iPhone 14 Plus": 2022,
+    "iPhone 14 Pro": 2022,
+    "iPhone 14 Pro Max": 2022,
+    "iPhone 15": 2023,
+    "iPhone 15 Plus": 2023,
+    "iPhone 15 Pro": 2023,
+    "iPhone 15 Pro Max": 2023,
+    "iPhone 16": 2024,
+    "iPhone 16 Plus": 2024,
+    "iPhone 16 Pro": 2024,
+    "iPhone 16 Pro Max": 2024
+}
+
 with st.form("prediction_form"):
-    tahun_pencatatan = st.number_input("Tahun Pencatatan", min_value=2000, max_value=2025, step=1)
+    tahun_pencatatan = st.number_input("Tahun Pencatatan", min_value=2000, max_value=2025, step=1, value=2021)
     model_iphone = st.selectbox("Model iPhone", options=available_iphone_models)
     kapasitas_gb = st.selectbox("Kapasitas GB", options=available_kapasitas_gb)
     warna = st.selectbox("Warna", options=available_warna)
@@ -95,7 +114,20 @@ with st.form("prediction_form"):
     kategori_pasar = st.selectbox("Kategori Pasar", options=available_kategori_pasar)
     sumber = st.selectbox("Sumber", options=available_sumber)
     lokasi = st.selectbox("Lokasi", options=available_lokasi)
-    submitted = st.form_submit_button("Prediksi Harga")
+    
+    # Validasi tahun pencatatan
+    tahun_valid = 2021 <= tahun_pencatatan <= 2025
+    if not tahun_valid:
+        st.warning("Tahun pencatatan harus antara 2021 sampai 2025.")
+    
+    # Validasi tahun rilis model iPhone
+    model_release_year = iphone_release_year.get(model_iphone, None)
+    if model_release_year is not None and tahun_pencatatan < model_release_year:
+        st.warning(f"{model_iphone} pertama kali dirilis pada tahun {model_release_year}. Tidak dapat memprediksi pada tahun {tahun_pencatatan}.")
+
+    # Disable submit button jika validasi gagal
+    disable_submit = (not tahun_valid) or (model_release_year is not None and tahun_pencatatan < model_release_year)
+    submitted = st.form_submit_button("Prediksi Harga", disabled=disable_submit)
 
     if submitted:
         try:
