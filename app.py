@@ -7,7 +7,7 @@ import pandas as pd
 def load_model(model_path):
     return joblib.load(model_path)
 
-model_path = 'xgboost(tuned).pkl'  # Path relative to the Streamlit app in GitHub
+model_path = 'xgboost(tuned).pkl'  # Sesuaikan path jika perlu
 model = load_model(model_path)
 expected_columns = model.feature_names_in_.tolist()
 
@@ -88,20 +88,27 @@ available_lokasi = ["Bandung", "Batam", "Jakarta", "Makassar", "Medan", "Semaran
 
 with st.form("prediction_form"):
     tahun_pencatatan = st.number_input("Tahun Pencatatan", min_value=2000, max_value=2025, step=1)
-    model_iphone = st.multiselect("Model iPhone", options=available_iphone_models)
-    kapasitas_gb = st.multiselect("Kapasitas GB", options=available_kapasitas_gb)
-    warna = st.multiselect("Warna", options=available_warna)
-    kondisi = st.multiselect("Kondisi", options=available_kondisi)
-    kategori_pasar = st.multiselect("Kategori Pasar", options=available_kategori_pasar)
-    sumber = st.multiselect("Sumber", options=available_sumber)
-    lokasi = st.multiselect("Lokasi", options=available_lokasi)
+    model_iphone = st.selectbox("Model iPhone", options=available_iphone_models)
+    kapasitas_gb = st.selectbox("Kapasitas GB", options=available_kapasitas_gb)
+    warna = st.selectbox("Warna", options=available_warna)
+    kondisi = st.selectbox("Kondisi", options=available_kondisi)
+    kategori_pasar = st.selectbox("Kategori Pasar", options=available_kategori_pasar)
+    sumber = st.selectbox("Sumber", options=available_sumber)
+    lokasi = st.selectbox("Lokasi", options=available_lokasi)
     submitted = st.form_submit_button("Prediksi Harga")
 
     if submitted:
         try:
+            # Bungkus input selectbox menjadi list agar kompatibel ke fungsi
             harga = make_prediction(
-                tahun_pencatatan, model_iphone, kapasitas_gb, warna, kondisi,
-                kategori_pasar, sumber, lokasi
+                tahun_pencatatan,
+                [model_iphone],
+                [kapasitas_gb],
+                [warna],
+                [kondisi],
+                [kategori_pasar],
+                [sumber],
+                [lokasi]
             )
             st.success(f"Prediksi Harga (IDR): {harga}")
         except Exception as e:
