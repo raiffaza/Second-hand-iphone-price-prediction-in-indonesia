@@ -214,7 +214,7 @@ with st.form("prediction_form"):
     # ================== PREDICTION ======================
     if submitted:
         if not valid:
-            st.error("Prediksi tidak dapat dilakukan. Silakan lengkapi/benahi data terlebih dahulu.")
+            st.error("Website akan diperbarui ketika sudah mendapatkan data terbaru yang lebih lengkap, Mohon maaf atas ketidaknyamanan nya.")
         else:
             try:
                 harga = make_prediction(
@@ -230,3 +230,4 @@ with st.form("prediction_form"):
                 st.success(f"Prediksi Harga (IDR): {harga}")
             except Exception as e:
                 st.error(f"Terjadi error dalam prediksi: {e}")
+
