@@ -17,6 +17,15 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
+# ================== LOAD DATA FOR VALIDATION ===============
+@st.cache_resource
+def load_validation_data():
+    df = pd.read_csv("dataset_ip_bekas_marketplace.csv")
+    last_year_for_model = df.groupby('Model')['Tahun_Pencatatan'].max().to_dict()
+    return last_year_for_model
+
+last_year_for_model = load_validation_data()
+
 # ================== LOADER ===================
 @st.cache_resource
 def load_model(model_path):
@@ -167,6 +176,16 @@ with st.form("prediction_form"):
                 f"Tidak dapat memprediksi harga sebelum tahun rilis."
             )
             valid = False
+    #==> NEW: Cek apakah tahun yang dipilih melebihi tahun data terakhir untuk model itu
+    if model_iphone and model_iphone.strip() != "" and model_iphone in last_year_for_model:
+        last_year = last_year_for_model[model_iphone]
+        if tahun_pencatatan > last_year:
+            messages.append(
+                f"❌ Data harga iPhone {model_iphone} untuk tahun {tahun_pencatatan} belum tersedia. "
+                f"Data terakhir yang tersedia adalah tahun {last_year}. Silakan tunggu update data ke depannya."
+            )
+            valid = False
+
     # Validasi kolom lain tidak boleh kosong
     if not kapasitas_gb or kapasitas_gb.strip() == "":
         messages.append("🚫 Kapasitas GB harus dipilih.")
