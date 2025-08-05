@@ -17,7 +17,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# ================== LOAD DATA FOR VALIDATION ===============
+# ================== LOAD DATA UNTUK VALIDASI ===============
 @st.cache_resource
 def load_validation_data():
     df = pd.read_csv("dataset_ip_bekas_marketplace.csv")
@@ -26,7 +26,16 @@ def load_validation_data():
 
 last_year_for_model = load_validation_data()
 
-# ================== LOADER ===================
+# ================== LOAD RANGE TAHUN PER MODEL (NEW) ===============
+@st.cache_resource
+def load_model_year_ranges():
+    df = pd.read_csv("dataset_ip_bekas_marketplace.csv")
+    model_minmax = df.groupby('Model')['Tahun_Pencatatan'].agg(['min', 'max']).to_dict('index')
+    return model_minmax
+
+model_year_ranges = load_model_year_ranges()
+
+# ================== LOADER MODEL ===================
 @st.cache_resource
 def load_model(model_path):
     return joblib.load(model_path)
@@ -160,7 +169,7 @@ with st.form("prediction_form"):
     valid = True
     messages = []
 
-    # Validasi tahun_cacatan
+    # Validasi tahun pencatatan
     if tahun_pencatatan < 2021:
         messages.append("❌ Tahun pencatatan minimal adalah 2021.")
         valid = False
@@ -176,13 +185,14 @@ with st.form("prediction_form"):
                 f"Tidak dapat memprediksi harga sebelum tahun rilis."
             )
             valid = False
-    #==> NEW: Cek apakah tahun yang dipilih melebihi tahun data terakhir untuk model itu
-    if model_iphone and model_iphone.strip() != "" and model_iphone in last_year_for_model:
-        last_year = last_year_for_model[model_iphone]
-        if tahun_pencatatan > last_year:
+    # Validasi tahun tersedia sesuai range data per model
+    if model_iphone and model_iphone.strip() != "" and model_iphone in model_year_ranges:
+        year_min = model_year_ranges[model_iphone]['min']
+        year_max = model_year_ranges[model_iphone]['max']
+        if not (year_min <= tahun_pencatatan <= year_max):
             messages.append(
-                f"❌ Data harga iPhone {model_iphone} untuk tahun {tahun_pencatatan} belum tersedia. "
-                f"Data terakhir yang tersedia adalah tahun {last_year}. Silakan tunggu update data ke depannya."
+                f"❌ Model {model_iphone} hanya tersedia dari tahun {year_min} hingga {year_max}. "
+                f"Silakan pilih tahun di rentang tersebut untuk prediksi."
             )
             valid = False
 
@@ -206,7 +216,7 @@ with st.form("prediction_form"):
         messages.append("🚫 Lokasi harus dipilih.")
         valid = False
 
-    # Show validation errors direct & disable prediksi
+    # Show validation errors secara langsung
     if messages:
         for msg in messages:
             st.warning(msg)
@@ -230,4 +240,3 @@ with st.form("prediction_form"):
                 st.success(f"Prediksi Harga (IDR): {harga}")
             except Exception as e:
                 st.error(f"Terjadi error dalam prediksi: {e}")
-
